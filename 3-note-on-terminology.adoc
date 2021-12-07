@@ -1,0 +1,7 @@
+== A Note on Terminology
+
+Throughout this book, I’ll be referring to your thesis — the term generally used in the UK for the written element of the PhD. In the US, it’s usually known as the __dissertation__. The Americans are right on this one. The argument based on your research is the __thesis__, and the dissertation is the written document in which you explain it. Given I’m based in the UK, I’m going with thesis. Otherwise, I’ll just forget and end up being inconsistent. I called the book _How to Write Your PhD with Scrivener_ to avoid the more cumbersome __How to Write Your Thesis or Dissertation with Scrivener__. To match the Scrivener interface, I’ll use US spelling throughout. 
+
+There will be a lot of keyboard and mouse action. I’ll refer to ctrl-clicking, which is the same as right-clicking for those of you with two-button mice. There are keyboard shortcuts for almost everything in Scrivener. Initially, I’ll show you only the shortcuts for the most common functions. This ensures you familiarize yourself with the interface and learn where the features are located. There’s a list of shortcuts in the Resources section.
+
+Scrivener is developed by a company called Literature and Latte, who are based in Cornwall. Founder Keith Blount was himself a PhD researcher and grew frustrated with the word processing options available to him. He was clever enough to build his own solution. I’m not affiliated in any way with Scrivener or its developers — I’m just an evangelical user — and this ebook is not endorsed by them.

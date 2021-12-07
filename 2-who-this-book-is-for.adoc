@@ -1,0 +1,13 @@
+== Who This Book is For
+
+The usefulness of this ebook will depend on the stage of your PhD. If you’ve only just started and haven’t yet begun writing, it might be hard to appreciate the benefits of Scrivener. The advantages will become clearer once you’re wrangling with multiple drafts and trying to structure your thesis. If you’re in the final year of your PhD, anxiously eyeing that deadline, now is probably not the time to learn a complicated piece of software. And the examples given in this ebook are based on the traditional book-style thesis. Although many of the techniques will be applicable to anyone pursuing a thesis-by-papers model, I won’t be explicitly addressing that format.
+
+Some of you might be writing plays or novels as part of a practice-based PhD. While Scrivener includes extensive support for both these formats, I won’t cover them here. You can find more resources at the end. SIGNPOST There’s very little on equations, too. If you’re a scientist or mathematician, Scrivener probably isn’t the right tool for you. You’re much better off using a LaTeX-based editor, such as Overleaf (www.overleaf.com).
+
+Naturally, I can’t cover specific disciplines or fields, either.  Everyone’s thesis is different — that’s the point, after all — so some of the examples might not be relevant to you. However, this ebook will teach you the basics of Scrivener and get you to the point where you’ll be able to search for answers to more specific queries. You’ll find details of support SIGNPOST at the end of the ebook.
+
+I’m not assuming any prior experience of Scrivener, but I __am__ expecting a reasonable level of IT literacy, e.g. that you know what I mean by copying and pasting and ctrl-clicking. Also, I’m assuming you have a desktop computer or laptop running MacOS 10.12.1 Sierra or above, an internet connection, and the necessary permissions to install software (this might not be the case on a work or university computer).
+
+Although Scrivener is available for iOS (iPhones and iPads), I won’t be covering either of those versions. If you enjoy writing on a tiny screen, I’d recommend learning the desktop version first. And I won’t address the Touch Bar on the MacBook Pro. If you’re lucky enough to have one of those, you can find more information in section 4.4.2 of the Scrivener manual (which is available from the Scrivener help menu).
+
+I’ll be covering only the Mac version of Scrivener, as there are a few differences for Windows users. I have published a separate ebook on __Writing your PhD with Scrivener for Windows__.

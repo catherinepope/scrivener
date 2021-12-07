@@ -1,0 +1,17 @@
+= How to Write Your PhD with Scrivener
+:author: Catherine Pope
+:doctype: book
+
+== Introduction
+
+When I first downloaded Scrivener, I opened it with great excitement. I then shrieked at the complicated interface and closed my laptop very quickly. Fortunately, I persevered. A decade later, I’ve written my PhD and three books with Scrivener. I now can’t imagine writing any other way. Scrivener is much more than a word processor. It offers a sophisticated workspace in which you can manage all aspects of your writing project. You can keep your drafts, research notes, outlines, and synopses all in one place, then organise your screen to display exactly what you need. Unlike most technology, Scrivener is likely to make your life much easier. And if you’re used to wrestling with Microsoft Word, prepare to be overjoyed.
+
+Scrivener is the digital equivalent of a project notebook. Every PhD student I talk to has hundreds of different documents relating to their thesis, often spread across multiple computers. With Scrivener, you can keep everything together and create, manage, and compare different versions of your drafts. The other huge advantage is that you can break free of linear writing. When you write in Word, it encourages you to start at the beginning and progress methodically to the end. That’s not how most of us write, though. With Scrivener, you can create blocks of text and move them around. You separate the content from the structure. It’s much easier to write that tricky paragraph if you’re not distracted by deciding exactly where it should live. Oh, and Scrivener also autosaves continually and stores up to five separate backups of your work. Unlike Word, it won’t suddenly crash, then triumphantly present you with a version from three weeks ago.
+
+As you can tell, I’m a Scrivener evangelist. I first discovered Scrivener towards the end of my PhD. It helped me transform those random bits of writing into something that actually looked like a thesis. I can’t pretend it was easy, though. Scrivener can be overwhelming for a newbie. The interface is complicated and there are a bewildering number of features — some of which took me many months to master. Indeed, as with any longterm relationship, there are a few things that annoy me about Scrivener. It’s certainly not perfect, but I do believe it’s the best writing tool on the market. You probably don’t have the time to flirt with lots of other word processors — that’s why I’m here to show how Scrivener can help you.
+
+I’m not going to tell you everything about Scrivener. We’d be here all week. Instead, I’ll explain the features that are most useful for PhD researchers like you. Once you’re using Scrivener every day (which I think you will be) you’ll start learning all the other features. Or perhaps you won’t even need them. There’s no right way to use Scrivener you have to find __your__ way. While that’s frustrating at first, it’s empowering once you get going. It means you can develop processes that are right for you, rather than you having to adapt your writing process to suit a fickle tool like Word.
+
+include::2-who-this-book-is-for.adoc[]
+
+include::3-note-on-terminology.adoc[]

@@ -1,0 +1,8 @@
+# Ignore Mac system files
+.DS_store
+
+# Ignore output directory
+output
+
+# Ignore all EPUB files
+*.epub
