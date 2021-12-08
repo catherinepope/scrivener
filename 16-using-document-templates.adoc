@@ -1,0 +1,71 @@
+:experimental:
+
+=== Using Document Templates
+
+If you find yourself repeatedly writing documents with the same structure — for example, with case studies — it’s a good idea to create some templates. Similar to Word, each time you open that template, it creates a new instance for you to use. The template itself is read-only and won’t be affected by what you do in your new document.
+
+Templates are also helpful if you want to give yourself some writing prompts. If you’re doing a literature review and assessing many journal articles, you could have a template that poses a series of questions to get you started, such as:
+
+	* What’s the main argument?
+	* How does it fit with my research topic?
+	* In what ways does it challenge my thinking?
+
+This way, you’ll produce some blocks of writing you can transplant into other parts of your project. Templates also encourage you to be systematic.
+
+==== Creating Document Templates
+
+To create templates, first you need a dedicated folder for them. Click the green plus sign or kbd:[option + cmd + n] and give your new folder a meaningful name. Also, make sure it’s not inside your Draft. Click and drag the templates folder so it’s between your Draft and the Research folder. Scrivener won’t recognize it as a template folder if it’s in the Draft. If your Templates folder insists on sitting within the Draft, select it, then press cmd + ctrl + the left arrow. This outdents it.
+
+[screenshot: show position of templates folder ]
+
+Then select your templates folder and create some files within it. As you’ll have realized by now, there are many different ways of creating new documents:
+
+	* The green plus sign on the toolbar.
+	* kbd:[cmd + n]
+	* Or the plus sign at the bottom of the Binder.
+
+[screenshot: Create new file at bottom of Binder]
+
+Now add your content to the file and format it however you like. You might want to start with some headings or questions, such as the example I gave you earlier:
+
+	* What’s the main argument?
+	* How does it fit with my research topic?
+	* In what ways does it challenge my thinking?
+
+You can also use the Inspector with templates to include a synopsis and image that’s automatically duplicated when you use the template. Don’t worry about getting this exactly right now. You can always come back and tweak it when you’re more confident with Scrivener.
+
+Next you need to tell Scrivener that the documents in this folder are templates, rather than ordinary documents. On the Menu Bar, go to *Project > Project Settings > Special Folders*. Now you’ll see Templates Folder.
+
+[screenshot: Project Settings popup window ]
+
+Click on the arrow and choose that folder you just created. If you can’t see it, it’s probably still in your Draft. Make sure it’s at the bottom of your Binder, either in or below the Research folder.
+
+Click OK.
+
+Your templates are ready to use.
+
+==== Using Your Templates
+
+To use your template, first make sure you’re not still in the templates folder. Click elsewhere in the Binder, where you want your template-based document to appear.
+
+On the Menu Bar, click *Project > New from Template*. You can now choose the template from the list. You’ll notice the first template in the list is assigned a keyboard shortcut. This will save you time if you’re using the templates frequently. Whichever template appears first in your templates folder is automatically assigned this keyboard shortcut.
+
+[screenshot: New from Template menu + highlight keyboard shortcut  ]
+
+When you’ve chosen your template, a duplicate is created and inserted into your Draft. Now you can treat it like a normal document.
+
+You can go back and edit the original template at any time. It won’t affect any existing documents you’ve created from it, though, only the new ones.
+
+===== Setting a Default Template for Folders
+
+Once you’ve created a template, you can choose to apply it to any new document within a _specific_ folder. For example, you might have a folder called _Journal Notes_ in your Research Folder where you want all the documents to share an identical format. 
+
+To set a default template:
+
+	. Create the new folder, e.g. Journal Notes.
+	. Select it in the Binder.
+	. In the Menu Bar, click *Documents > Default Template for Subdocuments*, then select the template (these options will be greyed out if you don’t have a folder selected).
+
+[screenshot: Show the folder selected in the Binder + top menu ]
+
+Now any new documents you create will have this template applied automatically. As you can see, Scrivener is great for note-taking, as well as for actually writing your thesis. Some writers create a separate Scrivener Project for all their research material, effectively using it to manage their literature review. As I explained earlier, you can view multiple Scrivener Projects [SIGNPOST], either with tabs or in separate windows.
