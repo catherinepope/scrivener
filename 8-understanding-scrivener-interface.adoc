@@ -1,0 +1,85 @@
+=== Understanding the Scrivener Interface
+
+Once you’ve installed and opened Scrivener, create a new project. If you don’t automatically see a pop-up window, click *File > New Project* on the Menu Bar.
+
+[screenshot: top menu ] 
+
+You’re presented with a number of templates. Although some of these templates might be useful in future, for now you want to understand how to create your own project from scratch. Click *Blank*, then select the *Blank* template and click *Create*. 
+
+[screenshot: New Project dialogue]
+
+You’re now asked to specify a name and location. This is because Scrivener autosaves in the background every time you’re inactive for more than two seconds. It needs to know where to put your project at the outset.
+
+You’ll then see an empty Scrivener project. It’ll probably look a little intimidating at first. As a writer, there’s nothing worse than the tyranny of the blank screen. Here are the main elements.
+
+[screenshot: Blank Project]
+
+==== The Menu Bar
+
+The application name appears in bold, followed by the features available.
+
+I’ll refer to this menu in the following format:
+
+*File > Insert > Footnote*
+
+This menu is overwhelming at first, but you’ll soon get used to navigating it. Throughout the book, I’ll introduce you to keyboard shortcuts for the features you’ll use frequently. If you can’t find what you need in the menu, click Help, then type in the search box. Scrivener then gives you a list of related options, and shows you where to find them in the menu structure.
+
+[screenshot: search Help ]
+
+==== The Binder
+
+On the left, you’ll see the *Binder*. You can think of this as a traditional binder, as it holds all your documents together.
+
+*Draft* is the name of the text folder within your Binder. Here you’ll keep your text documents. Whereas in Word you might be working on one enormous document, in Scrivener your project is broken down into lots of smaller documents. They are held together and organized in this Binder. Breaking it down in this way helps you work in non-linear blocks and it also makes everything more stable.
+
+You can rename your Draft by double-clicking on it. I’ll be referring to it as your Draft throughout this book, though, so would recommend renaming it only after you’ve got the hang of Scrivener.
+
+When you’ve finished writing, you compile your Project by stitching all those individual documents back together. At this stage, you decide on the order, layout, and formatting. You can also choose to exclude specific documents. We’ll cover this process  in Chapter #XXX#.
+
+The *Research Folder* is where you keep all the material relating to your Project. This might include journal articles, images, or videos. Although theses resources live within your Project, they’re not part of your compiled project. We’ll explore this powerful folder in the next chapter. [SIGNPOST]
+
+*Trash*, unsurprisingly, is where your deleted documents end up. They’ll lurk here until you Empty Trash by ctrl-clicking and choosing *Empty Trash*. Emptying the trash regularly means your project file doesn’t get too bloated, but make sure you haven’t accidentally binned anything you still need.
+
+To restore an item from Trash, select it in the Binder and drag it back into your Draft.
+
+*Draft*, *Research*, and *Trash* are the mandatory or root folders within the Binder. You can create your own folders, too, which we’ll do in the next chapter.
+
+==== The Editor
+
+The middle part of the Scrivener interface is called the *Editor*. This is where you’ll do your writing and editing. The *Format Bar* gives you various options, like a simpler version of Word. And the band across the top of the Editor is called the *Header Bar*.
+
+[screenshot: Editor and formatting bar]
+
+Don’t worry about the role of the Header Bar at this stage — I just want you to familiarize yourself with the terminology.
+
+==== The Inspector
+
+Over on the top right-hand side, you’ll see a small blue icon with an ‘i’. This is the *Inspector*, which allows you to _inspect_ details relating to whichever document is selected in the Binder. 
+
+[screenshot: Inspector]
+
+These details include synopses, notes, keywords, and comments. Here you can see my footnotes. You can show or hide this information by clicking the ‘i’. You’ll probably want to hide it while you’re writing to maximize your screen space.
+
+Working from left to right, Scrivener becomes more detailed. You start with the Binder on the left, which shows you all the documents. When you select one of those documents, its contents are displayed in the Editor. If the Inspector is visible, you’ll then see details about that document on the right-hand side.
+
+==== The Toolbar
+
+The Toolbar at the top includes some additional functionality, mainly around viewing your project in different ways. We don’t need to know about those right now, though. 
+
+[screenshot: toolbar]
+
+You can also customize this toolbar to include shortcuts to the functions you use most often. [signpost]
+
+==== Footer Bar
+
+At the bottom, you’ll see the *Footer Bar*. This provides some extra information about your current document, such as the word count. Again, we’ll return to these features when you’re more familiar with Scrivener.
+
+[screenshot: footer bar]
+
+Here are some of the key terms I’m going to be using in this module:
+
+	* Project — this is your main Scrivener file, which comprises lots of individual files. Only some are included in your final thesis. The Project holds everything together.
+	* Document — a distinct piece of writing within your Project. This might be chapter, a section, or even just a paragraph.
+	* Thesis — what you’ll produce at the end by compiling and exporting your Scrivener project.
+
+That’s enough terminology. Now let’s start mucking about with some words.

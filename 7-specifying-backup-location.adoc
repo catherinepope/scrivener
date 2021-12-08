@@ -1,0 +1,52 @@
+:experimental:
+
+=== Specifying a Backup Location
+
+When you first open Scrivener, it'll ask you to specify a backup location. Although this is annoying, please take a few moments to choose wisely. Don't just opt for your hard drive where all your other files are stored. If anything happens to that drive, you'll lose both your work and your backup.
+
+If possible, specify an external drive or cloud storage, such as Google Drive, OneDrive, or iCloud. Dropbox is a good choice, too, but only if you're not also using it for your writing. 
+
+IMPORTANT: You want your writing and your backups in separate locations.
+
+You can change this location at any time by clicking *Scrivener > Preferences > Backup* on the Menu Bar.
+
+[screenshot: Show Scrivener > Preferences on the top menu, alongside the Backup tab ]
+
+You’ll be visiting the Scrivener preferences a lot, so it’s worth learning the keyboard shortcut of kbd:[Cmd+,] (that’s a comma).
+
+==== Setting Backup Preferences
+
+Under Preferences, you can further customize your experience. This stuff is boring, but it’s one of Scrivener’s key strengths and distinguishes it from Word.
+
+[screenshot: Backup Preferences ]
+
+. Please don’t switch off automatic backups. It’s not good for my nerves. 
+
+. You could decide to backup only when you press cmd + s, but that means you have to remember. I think it’s best to check the box for *Back up on project close*. There’s no reason why you can’t also include the manual save. I try to do this each time I’ve made major changes during a writing session.
+
+. It’s a good idea to *Compress your automatic backups as zip files*. Although the process itself takes longer, you’ll potentially save a lot of disk space. That’ll help if you’re syncing with Dropbox or a cloud-based backup tool.
+
+. *Use date in backup filenames*. By default, Scrivener just adds a number to distinguish between backup versions. It would be difficult to know whether that was the backup you wanted. You could look at the file information, but it’s probably easier to see it in the file name.
+
+. By default, Scrivener saves five different versions. You might want to increase the *Only keep* number if you regularly make a lot of big changes. Bear in mind, though, that it’ll take up more space on your hard drive or cloud storage.
+
+==== Restoring Backups
+
+If you need to restore a backed up project, first find it in the Backup location.
+
+[screenshot: Backup location ]
+
+Go to Scrivener > Preferences > Backup on the Menu Bar and then click Open backup folder. You’ll see the different versions of your projects here. If you specified that you wanted to keep five versions, you’ll see …
+
+[%hardbreaks]
+ProjectTitle-bak1.zip
+ProjectTitle-bak2.zip
+ProjectTitle-bak3.zip
+ProjectTitle-bak2.zip
+ProjectTitle-bak1.zip
+
+Or by date, if that’s the file naming format you choose.
+
+If you opted to compress your backup files, they’ll have a zip extension. Double-click the backup file to expand it. Now it’ll become a standard Scrivener project. You can open and edit your project as normal. Make sure you first move it outside the Backups folder, though.
+
+It’s good for your peace of mind to occasionally take a peek at your backup folder and see all the different versions stacked up.

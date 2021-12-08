@@ -1,0 +1,41 @@
+== Buying and Installing Scrivener
+
+=== Downloading a Trial Version
+
+Before you decide whether Scrivener is suitable, you can download a trial version from link:++www.literatureandlatte.com/scrivener/download++[]. The trial lasts 30 days, and that’s 30 non-consecutive days, so you get plenty of opportunity to see whether you like it. Some people make the trial last for years by never switching off their computer. Scrivener is very cheap, though, so I’d recommend buying it and giving your Mac the occasional rest. If you decide not to purchase Scrivener, make sure you export your writing before it expires. SIGNPOST.
+
+=== Purchasing Scrivener
+
+When your trial expires, you’ll be offered the opportunity to unlock Scrivener by purchasing a license. When your purchase is complete, Scrivener is unlocked automatically. You don’t need to download the software again. You’ll also receive an email with your serial number. This is required if you need to reinstall Scrivener or set it up on another computer.
+
+You can also buy Scrivener from the Mac App Store. Although this method might be more convenient for some users, it does come with a few potential disadvantages:
+
+	* You don’t receive a serial number. This could make it more difficult to install Scrivener on other machines or to get discounts on future versions.
+	* Apple imposes certain security limitations on apps sold through the Mac App Store, which can restrict the functionality of this version.
+	* Unsurprisingly, Apple takes a big cut of the sale — around 30-40% — so less money is reinvested in the development of Scrivener.
+
+The standard cost for both Mac and Windows is currently £47.footnote:[Prices correct at time of writing.] If you have an academic email address (one ending in ac.uk or .edu) it'll cost you only £39.95.[1] This is a one-time cost — it's not one of those pesky subscription models. You'll also receive updates and support. You’d only have to pay more money if the developers released a completely new version of Scrivener. This only happens around every five years. 
+
+You're also allowed to install Scrivener on all your computers. However, if, like me, you use both a PC and a Mac, you'll need to buy a separate license for each. This is available as a bundle costing £75.
+Upgrading Scrivener from Earlier Versions
+
+The current version of Scrivener for Mac is 3.2.2. If you have an older version, I recommend upgrading. If your version starts with a 2, you’ll be required to pay for the upgrade. You’ll get a discount, though, so it’ll cost you around £25. This is a small price to pay for software that’ll make your life much easier.
+
+https://www.literatureandlatte.com/upgrade-to-scrivener-3-for-macos
+
+You’ll be asked to enter your serial number so the system can check your eligibility for the discount. Search your inbox for ‘Literature & Latte’ (the company behind Scrivener). If you still can’t find it, https://www.literatureandlatte.com/contact-us[contact Scrivener support]  — they’ll need the email address you used for the original transaction.
+
+=== Installing Scrivener
+
+To install Scrivener, follow these steps:
+ 
+	. Download the latest version from Literature & Latte (link:++www.literatureandlatte.com/scrivener/download++[]).
+	. When the file Scrivener.dmg finishes downloading, find it in your *Downloads* folder and double-click to install it.
+	. On the pop-up window, drag the Scrivener icon to the *Applications* folder, as indicated by the arrow.
+	. Open your *Applications* folder in the *Finder* and double-click the Scrivener icon to launch the software.
+
+[screenshot: Applications folder ]
+
+Now you’re ready to get acquainted with Scrivener.
+￼
+[1] Price correct at time of publication.

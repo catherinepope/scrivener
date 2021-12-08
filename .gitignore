@@ -7,6 +7,13 @@ output
 # Ignore all EPUB files
 *.epub
 
+# Ignore all HTML files
+*.html
+
 # Ignore notes
 
 notes.md
+
+# Ignore gemfiles
+gemfiles
+Gemfile.lock

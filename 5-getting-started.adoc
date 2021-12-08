@@ -1,0 +1,11 @@
+== Getting Started
+
+With some software, you can dive straight in and figure out how everything works. Scrivener, though, can be unyielding to newcomers. The initial challenge often sends us scurrying back to the familiarity of Word. In this chapter, I’ll accompany you through those early stages to make sure you understand the fundamentals of Scrivener. You might already be further ahead in your Scrivener adventure, so jump to whichever section is relevant for you.
+
+First, we’ll buy and install Scrivener. I’ll explain the various options available, along with the costs and implications of those options. While installation is straightforward, you’ll need to understand a little about how Scrivener stores and backs up your files. One of the many joys of Scrivener is that it’s very hard to lose your work. However, you need to set up everything correctly to get the most out of this feature.
+
+Then I’ll give you a guided tour of the Scrivener interface, introducing you to the main features and the terminology you’ll need at this stage.
+
+Once you’re acquainted with the Scrivener interface, you’ll create your first project and also import an existing Word document. With some content in place, you can learn some of the basics of Scrivener, such as merging, splitting, and moving documents. A big advantage of Scrivener is that it allows you to break down your thesis into more manageable chunks. That’s exactly what we’ll do. By the end of the chapter, you’ll never be tempted back to Word.
+
+OK, if you’ve already downloaded Scrivener, you can skip to Understanding the Scrivener Interface, otherwise let’s do that now.
