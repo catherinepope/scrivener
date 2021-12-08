@@ -1,0 +1,43 @@
+=== Monitoring Progress
+
+Unfortunately, writing isn’t as simple as producing a set number of words. Most of us start with a truly horrible version, then gradually make it more respectable. With a big project like a thesis or a book, you’re likely to have lots of documents at different stages. In Scrivener, you can easily track them using *Status*.
+
+If you look at this document, you’ll see it says _No Status_ in the bottom right-hand corner of the Inspector. When you click on this status, you can change it to: _To Do_, _In Progress_, _Final Draft_, _Revised Draft_, _Final Draft_, or _Done_. 
+
+[screenshot: Show Status in Inspector ]
+
+These defaults might suit your way of working. If not, you can change them by clicking Edit at the bottom of the list. This opens your Project Settings.
+
+[screenshot: Project Settings — Status List ]
+
+Use the plus and minus at the bottom to add or remove statuses. You might want to add For Proofing, For Supervisor, or Check Quotes. Click and drag to reorder them. You can set a default, too. 
+
+With a default, everything could be automatically marked as To Do, then you manually change it to First Draft once you’ve done some work on it.
+
+==== Viewing Status in Group Mode
+
+If we hop back to the Outliner, you can see the Status of each document and even change it by clicking the arrows. Or you can click on the Status header to sort by this criterion.
+
+[screenshot: Show Status in Outliner — flag Header for sorting ]
+
+And now let’s head over to the Corkboard and see what’s happening. Probably not much at the moment. But if you click *View > Corkboard Options > Show Status Stamps*, it gets more exciting. At a glance, you can see the status of all your documents. 
+
+[screenshot: Corkboard with status stamps ]
+
+To change the status of a document from the Corkboard, _ctrl-click_ the card and choose Status on the menu.
+
+You can apply a status to anything in your Research folder, too. You might add a status for _To Be Read_ or _Read_. One drawback is that these statuses will be visible in all your documents. While they make sense for journal articles, they don’t necessarily apply to your own writing. In Chapter #XXX#, we’ll investigate an alternative method for keeping track of research material.
+
+With word targets and statuses, you have some powerful tools for monitoring the progress of your project.
+
+=== Summary
+
+Whether you’re a planner or a pantser, hopefully you’ve found some techniques to help you get started. Between the Corkboard and the Outliner, you have two different methods, depending on your preference and stage. I like to start with the Corkboard to give myself some big blocks, then switch to the Outliner to add some detail and targets. Everyone’s different, though.
+
+Whichever approach you use,  planning allows you to move faster with the writing. Although you don’t want to constrain yourself (or indeed to spend weeks at the planning stage), having at least an outline helps you understand the limits of your project. As researchers, we get very excited about new ideas; with a thesis, though, we need to stay narrow and deep. We want to restrict the scope, rather than add more stuff.
+
+Creating document templates can help get you started, providing a structure for your writing. This feature is especially helpful if you’re also managing your research notes in Scrivener. And I often use it to avoid the tyranny of the blank page. A simple prompt such as, “What’s on your mind?” can get those fingers moving.
+
+Setting word targets also ensures we don’t write too much and also provides evidence of progress. If we ask ourselves, “Have I done enough writing?”, the answer is almost certainly, “no”. If, however, we set and achieve a target of 500 words, we’re officially awesome.
+
+With practice, you’ll find a workflow that suits you. As before, experiment with these features until you feel comfortable. You also need to get a sense of what’s helpful for you. In the next chapter, we’ll get stuck into some writing.
