@@ -1,0 +1,80 @@
+:experimental:
+
+=== Inserting Footnotes and Citations
+
+Scrivener offers two types of footnote: _inline footnotes_ and _inspector footnotes_. Inline footnotes appear in full within the document text inside a grey box. Inspector footnotes appear as an underlined word in a blue box and the footnote text itself lives in the Comments & Footnotes tab of the Inspector.
+
+[screenshot: different types of footnote + show the Comments & Footnotes tab ]
+
+You can switch between these types at any stage by clicking *Edit > Transformations > Convert Inline Footnotes to Inspector Footnotes* (or vice versa). You can also perform a conversion when you compile and export your Scrivener project.
+
+You probably don’t want the distraction of inline footnotes while you’re writing, but perhaps they’re necessary for the style guidelines to which you are working. In which case, you can keep them in the Inspector initially, then make them inline at the end.
+
+Now, though, let’s see how they work. 
+
+==== Inserting a Footnote
+
+To insert an inspector footnote, place your cursor where you want it to appear, then click *Insert > Footnote*. Alternatively, you can click the paperclip icon on the Toolbar and choose Add Footnote.
+
+[screenshot: paperclip — add footnote ]
+
+As you’ll be adding a lot of footnotes, it’s worth learning the keyboard shortcut kbd:[ctrl + cmd + 8] for an Inspector Footnote.
+
+If you’re pasting the footnote content from elsewhere, you might end up with messy formatting. If so, _ctrl-click_ in the footnote in the Inspector and choose Convert to Default Formatting.
+
+[screenshot: Show Convert to Default Formatting and X ]
+
+To delete an inspector footnote, click the *x* in the top right-hand corner of the footnote in the Inspector. 
+
+For inline footnotes, click *Insert > Inline Footnote*. Then type in the grey bubble. To delete it, just select the entire bubble and hit delete.
+
+If you’d prefer endnotes for your thesis, you can convert your footnotes at the Compilation stage [SIGNPOST].
+
+==== Inserting Citations
+
+For citations, you’ll want to use a bibliographic referencing tool such as Zotero, Mendeley, or EndNote. Whenever I introduce Scrivener to a researcher, they’re very excited right up until I admit that it’s not fully integrated with any of these tools. And it probably never will be. There, I’ve shattered your dreams, too.
+
+I can offer you a few workarounds, though. Firstly, you can link Scrivener with the tool of your choice, such as Zotero. This means Zotero is launched every time you want to insert a citation. Then you can find the item in your library, copy the citation, and paste it into Scrivener. 
+Using Scrivener with a Bibliography Manager
+
+I’m using Zotero here as an example, but it’ll work in a similar way for EndNote and Mendeley.
+
+In the Scrivener Menu Bar, go to *Preferences > General > Citations*. Under *Bibliography Manager*, click Choose, then find your application — in this case Zotero — and click *Open*. You’ll now see that Zotero is set as my Bibliography Manager.
+
+[screenshot: Setting Bibliography Manager ]
+
+Now, instead of inserting a footnote in the usual way, I click *Insert > Bibliography/Citations* on the Menu Bar. Zotero launches and I can find the item to cite.
+
+In Zotero, you can _ctrl-click_ the item, choose *Create Bibliography from Item*, select your style, then *Copy to Clipboard*.
+
+[screenshot: Copying citation from Zotero ]
+
+Now I create my footnote in Scrivener as usual using kbd:[ctrl + cmd + 8]  and paste the citation I created in Zotero.
+
+If you have enough screen space, you can also create the footnote in Scrivener, then drag and drop the citation from Zotero.
+
+[screenshot: somehow recreate this! ]
+
+This will feel cumbersome at first, but you’ll soon become adept at it.
+
+===== Understanding the Limitations of using Scrivener with Bibliography Managers
+
+The big limitation with the method I outline above is that those citations aren’t linked to Zotero. If you update that item in Zotero, it won’t be updated in Scrivener. And you can’t automatically generate bibliographies in Scrivener, either. This will be frustrating if you’re used to the Zotero plugin for Word or LibreOffice.
+
+There are a couple more options, one fairly simple, the other very complicated. As these options involve a lot of detail that changes, I’ve explained both methods on my blog. 
+
+[insert links here]
+
+If you use a tool other than Zotero, you should be able to adapt the methods shown.
+
+If you’re not already using a bibliographic referencing tool, I think Zotero is the best. It’s easy to use, reliable, and also free. There are links to Zotero training material in the Resources section [signpost]. Like Scrivener, Zotero will make your PhD life much easier.
+
+===== My Scrivener-Zotero Workflow
+
+In case you’re interested, here’s my workflow with Scrivener and Zotero. I’ve used more complicated methods in the past, but now I like to keep things simple. 
+
+While I’m writing in Scrivener, I add basic placeholders in lieu of citations. For example, I’ll create a footnote with the author, year, and page number. When I’ve finished my revised draft, I export it as a Word document, then use the Zotero plugin in Word to add my full citations and create a bibliography. 
+
+Although this doesn’t sound very efficient, I find it’s the most painless approach. It’s surprisingly quick to go through my Word document and replace those placeholders with citations. Also, it gives me an opportunity to check those details and I build an impressive momentum.
+
+Of course, I’d be much happier if Scrivener and Zotero were integrated. However, that’s unlikely to happen soon. In the meantime, I’m prepared to make the necessary compromises, as both tools are so good at what they do.
