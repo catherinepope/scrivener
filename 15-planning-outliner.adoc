@@ -1,0 +1,39 @@
+:experimental:
+
+=== Planning with the Outliner
+
+While the Corkboard is good if you want a visual representation of your Project, the *Outliner* is better for details. Essentially, it allows you to view your Project documents as a list. It’s similar to the list view in Finder on your Mac. You’ll see all the documents, along with some related information or metadata.
+
+To view the Outline, select Draft in the Binder, then click the Outliner icon on the toolbar (or press kbd:[cmd + 3]).
+
+[screenshot: Draft is selected; Outliner view icon]
+
+You’ll see any existing documents here. You can also add documents in the Outliner by pressing kbd:[cmd + n], as you did in the Corkboard. 
+
+From the Outliner, you can click and drag your documents to reorder them. And you can nest them by dragging one document on top of another to make it a sub-document. You’ll notice this hierarchy is then reflected in the Binder.
+
+[screenshot: Show reflection of Outliner and Binder ]
+
+==== Viewing Metadata in the Outliner
+
+You’ll see there’s some additional information in the Outliner, including Label, Status, and Section Type. This is metadata, or information about your document. I’ll explain more about metadata in Chapter #XXX# [SIGNPOST].
+
+For now, I want to show you one important piece of metadata: the word count. This information isn’t currently visible, but we can easily add it by clicking on the tiny arrow in the top right-hand corner of the Outliner.
+
+I’ve magnified the icon in this screenshot. On your monitor, it’ll probably be the size of a flea. You might need to peer closely at your screen to spot it.
+
+[screenshot: tiny flea-sized icon ]
+
+Now you’ll see a pop-up window with checkboxes, from where you can hide or display information in the Outliner. We’re just going to add Word Count by clicking the checkbox. Now a _Words_ column is added to my Outliner.
+
+[screenshot: Words column in Outliner ]
+
+You can instantly see how many words there are in each document. Probably not many at the moment. To motivate yourself, you can set a target for each document. 
+
+Click the tiny arrow again. This time, check the box for _Target_.
+
+[screenshot: Target column in Outliner ]
+
+Now you can click on the zeros under Target and enter some numbers. 
+
+We’ll look at tracking progress in more detail in a moment. For now, the Corkboard and Outliner should help you create a plan for your project and set some targets.
