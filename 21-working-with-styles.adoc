@@ -1,0 +1,75 @@
+=== Working with Styles
+
+An important and confusing concept to grasp with Scrivener is that the styles you use while writing don’t necessarily reflect what you see in your final compiled and exported Project. Scrivener is designed so you can export the same content in many different ways. At the export stage, you decide on aspects such as font, line spacing, and page breaks. In Word, you spend a lot of time tinkering with the formatting when you could be writing.
+
+Word is often described as WYSIWYG: what you see is what you get. With Scrivener, you write first, then decide what you want it to look like later. You classify elements of your project, such as block quotes, then specify their appearance when you compile. We’ll cover Compiling and Exporting in a separate chapter.
+
+One advantage of the Scrivener approach is that you can use a font that’s easier to read on screen, even if your project is destined for print.
+
+You can choose the font face, style, and spacing on the formatting toolbar. 
+
+[screenshot: formatting bar]
+
+There’s a default which applies to all new documents, but you can change it.
+
+==== Changing the Default Style
+
+On the Menu Bar, go to *Scrivener > Preferences > Editing > Formatting*. Now you’ll see a sample paragraph on which you can configure your preferred default.
+
+[screenshot: default style editor]
+
+Click the *Aa* to change the font, then choose other options, such as the line spacing here. I find it much easier to read on the screen when the line spacing is 1.3. You’ll see a preview of your changes in the Nietzsche quote below.
+
+Here, you can also change the default styles for your notes, comments, and footnotes.
+
+If you’ve spent time getting the style right in your current document, you can instead click *Use Formatting in Current Editor*.
+
+To apply your new default formatting to an existing document, open it in the Editor and click *Documents > Convert > Text to Default Formatting*. That’s what we did earlier when you imported a Word document.
+
+Any additional documents you create will automatically use this new default format.
+
+==== Styling Headings and Quotes
+
+For elements such as headings and quotes, you’ll need to use the styles menu on the left-hand side of the formatting bar.
+
+[screenshot: styles dropdown in formatting bar ]
+
+Select the text in the Editor, then click on the required style in the dropdown list. If you choose *No Style*, your text is formatted according to your default style (the one you created a moment ago). This is similar to the Normal style in Word. Unless you want something special like a block quote or a heading, just use _No Style_.
+
+Don’t worry about getting these styles exactly right while you’re writing. It’s more important to specify the _type_ of element, for example block quote. Then you can decide what a block quote should look like later.
+
+TIP: At the Compilation and Export stage, Scrivener can automatically include and format your document titles as headings, so there’s no need to add them manually within your document.
+
+===== Editing an Existing Style
+
+If you do want to add or edit styles, here’s the easiest way to do it. You format an existing part of your document, then turn it into a style. 
+
+In this example, I’m using a block quote. I’ve made the font slightly larger and italicized the text. Now I’m happy with it, in the Menu Bar, I click *Format > Style > Redefine Style from Selection*, then choose the style. In this case, it’s _Redefine Block Quote_.
+
+[screenshot: show paragraph + redefine style from selection ]
+
+When you update a style, the changes are automatically applied to any text throughout your project to which that style has already been applied.
+
+===== Adding a New Style
+
+You can also use the above approach to create a whole new style from selected text. This time, click *Format > Style > New Style from Selection* and give it a name.
+
+[screenshot: create new style from selection ]
+
+This is good opportunity to point out an annoying feature in Scrivener. By default, Scrivener indents the first line of any paragraph, even if it’s the first in a chapter. Obviously, only a monster would indent the first paragraph. Here’s the simplest way to change it.
+
+In your document, place your cursor at the beginning of the first paragraph. In the top menu, click *Format > Paragraph > Increase/Decrease Indents > Decrease First Line Indent*. Yes, it’s bit of a palaver, but you won’t have to do this again.
+
+Now repeat that trick I showed you a moment ago. Select the same paragraph, click *Format > Style > New Style from Selection* and give it a name, such as _First Para_. You can now apply this to any paragraphs where you don’t want a first-line indent.
+
+Alternatively, you can automatically remove all those indents at the Compilation stage. If you’re like me, though, you’ll find them distracting while you’re writing.
+
+===== Understanding the Limitations of Styles 
+
+There’s a lot more you can do with styles, but it can be overwhelming when you’re new to Scrivener. Start with the basics and build up. The focus with Scrivener is on writing _productivity_. Style is a completely separate activity.
+
+If you find styles in Scrivener too limiting, I’d suggest doing all your tweaking in a separate application. For precise layouts, it would be better to use proper desktop publishing software, such as Adobe InDesign. Although you can achieve a lot with Scrivener, I think some of the features are unnecessarily complicated.
+
+Equally, if you’re struggling to get the hang of the styles and are up against a deadline, it might be easier to finish your thesis in Word, or another application with which you’re more familiar. I think Scrivener mainly excels at planning and writing your project, rather than the formatting. 
+
+For now, keep it simple while you’re writing in Scrivener. As I’ll show you in Chapter #XXX#, you can change the formatting and styles at the Compilation and Export stage.

@@ -1,0 +1,11 @@
+== Writing
+
+Now you’ve got your writing project planned, you can get stuck into some intensive writing. Although I’m sure you’ve worked out how to type in Scrivener, in this module we’ll look at some of the less obvious aspects, such as creating footnotes, adding comments, and inserting images. 
+
+One of the biggest differences between Word and Scrivener is how they handle styles. In Scrivener, you only decide on the appearance of your thesis when you compile and export it. While you’re writing, you just use a basic layout. Although this separation allows you to focus on producing words, it takes a while to get used to. I’ll give you an overview of styles and also share a few tips for making it easier.
+
+In the previous chapter, we looked at the Research Folder. This is useful for keeping all your research material within your project, but separate from your writing. Sometimes, though, you want to keep shorter notes visible while you write. We’ll investigate the Notes pane, where you can quickly jot down ideas relating to the current document. I’ll also show you the Scratchpad, a floating notebook that’s available across all your Scrivener documents and projects.
+
+If you’re finding the Scrivener interface complicated or distracting, we’ll explore the options for configuring your workspace. There are settings for hiding elements and also highlighting what we’re currently working on. I’ll also show you some accessibility settings, such as changing the colour scheme and using a screen reader.
+
+First, we need to understand how Scrivener handles styles.
