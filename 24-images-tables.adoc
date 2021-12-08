@@ -1,0 +1,37 @@
+=== Inserting Images, Figures, Tables, and Equations
+
+Scrivener’s main focus is on helping you create a lot of words. It’s less effective at producing sophisticated documents — at least, not without a lot of fiddling. Nevertheless, it will serve the needs of most writers.
+
+==== Inserting Images
+
+Scrivener’s support for images is basic, but at least that means it’s straightforward. To insert an image, click *Insert > Image from File* and locate it on your computer. Alternatively, you can click drag an image into your Scrivener document.
+
+If it’s a very large file — for example a high resolution photo — it might be better to link to it by clicking *Insert > Image Linked to File*. With this method, you’re not actually adding the image to your Scrivener project, just linking to it elsewhere. This means it doesn’t affect the size of your Project and you’re not duplicating enormous files. Also, if you change that image outside of Scrivener, it’ll be updated within your Project.
+
+Once you’ve added your image, formatting options are limited to resizing, which you can do by _ctrl-clicking_ and choosing *Scale Image*. 
+
+[screenshot: show formatting options ]
+
+You can also align the image by selecting it and using the formatting toolbar.
+
+[screenshot: show formatting toolbar + align options ]
+
+Finally, you can add a caption underneath by typing the text and then choosing _Caption_ from the Styles menu.
+
+[screenshot: Show caption styling ]
+
+If you need to crop or adjust the colour balance of your image, do that first in another application such as Photoshop. 
+
+There are no word wrapping features for images in Scrivener.
+
+The process is the same for figures. Unlike Word, Scrivener doesn’t include any line art features, so you need to create diagrams or figures elsewhere and save them as images.
+
+==== Inserting Tables
+
+Support for tables is also basic. To create one, click *Insert > Table*, then choose the number of rows and columns. There are a few formatting options, such as cell border, backgrounds, and alignment. For anything more sophisticated, I’d recommend creating it in another application, converting it into an image, then inserting that image in Scrivener.
+
+[screenshot: example of a table ]
+
+==== Inserting Equations
+
+I’m going to say even less about equations. There is support for equations in Scrivener, but only if you use it with a separate program called MathType, which costs $50pa. If you’re clever enough to write an equation, you’ll be able to fathom this out for yourself. There’s more information on this topic in section 20.5 of the Scrivener manual, along with guidance on using the scientific markup language LaTeX.

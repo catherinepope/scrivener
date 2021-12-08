@@ -1,0 +1,173 @@
+:experimental:
+
+=== Optimizing Your Workspace
+
+If you’re spending a lot of time in Scrivener, you’ll want to optimise a few of the settings to make it a more comfortable experience. In a moment, I’ll explain how to use Composition (or full-screen) Mode, change screen layouts, and improve accessibility. First, here are a few smaller tweaks you can make.
+Using Typewriter Scrolling
+
+To save your neck while you’re writing, you can turn on typewriter mode. Click *View > Text Editing > Typewriter Scrolling*. This means that no matter how much you type, your cursor stays in the centre of the screen. There’s no need to scroll or slide down in your chair.
+
+==== Using Focus Mode
+
+When we’re struggling to write, there’s an overwhelming temptation to constantly reread what we’ve written. With Focus mode, you can highlight the section you’re writing. On the Menu Bar, click *View > Text Editing > Focus*. Then you can choose to focus on either the current line, sentence, or paragraph. Everything else fades away.
+
+[screenshot: Focus mode - show highlighted text ]
+
+To switch off Focus Mode, go to *View > Text Editing > Focus* and select *Off*. 
+
+==== Highlighting the Current Line
+
+Similar to Focus Mode, you can also choose to automatically highlight the current line. With this method, however, the other text doesn’t fade away. Instead, the current line is highlighted in a box.
+
+[screenshot: Show line highlighting ]
+
+To activate the line highlighter, go to *Scrivener > Preferences*, click the *Appearance* tab, then check the box to Highlight current line.
+
+[screenshot: Appearance tab showing checkbox ]
+
+Now we’ll look at some bigger changes you can make.
+
+==== Using Composition Mode
+
+With *Composition Mode*, you can view just your current document on its own. Everything else disappears, and it looks as though you’re typing on a piece of paper. To enter Composition Mode, click the icon in the top right-hand corner. 
+
+[screenshot: Show Composition Mode icon ]
+
+This Mode looks austere when you’re used to the busyness of the Scrivener interface. However, it’s useful when you need to focus on a few tricky paragraphs.
+
+There are many options to adjust the appearance of Composition Mode.
+
+Hover your mouse at the bottom of the screen to see a menu bar.
+
+[screenshot: Composition Mode menu bar ]
+
+1) Here you change the text scale, the paper position, and the paper width. If your paper width is too wide, it can be tiring to scan back and forth across the lines.
+
+2) With the *Inspector* icon, you can show or hiding a floating panel with the information relating to this document. Use the arrows in the top right-hand corner of this panel to switch between the different Inspector tabs. You’ll also see your document status at the bottom.
+
+3) Click *Go To* to load a different document without leaving Composition Mode.
+
+4) With *Focus*, you can choose to have the current line, sentence, or paragraph highlighted. This makes it easier to focus on what you’re typing rather than being tempted to look back in horror at what you’ve already written.
+
+5) *Typewriter Mode* —  no matter how much you type, your cursor stays in the centre of the screen.  There’s no need to scroll or slide down in your chair.
+
+6) *Keywords* — keywords are additional metadata for your document, similar to tags. We’ll explore them in Chapter #XXX#.
+
+7) *Background Fade* — dragging the slider all the way to the right hides the background completely. 
+
+8) Exit full-screen mode, but you can just press kbd:[esc].
+
+You don’t have access to the formatting toolbar in Composition Mode. You’ll need to use keyboard shortcuts such as kbd:[cmd + b] for bold and kbd:[cmd + i] for italics. This keeps things simple and ensures you’re focusing on writing, rather than formatting.
+
+==== Managing Layouts
+
+As you become more comfortable with Scrivener, you’ll get a sense of what layout suits your workflow. When you’re writing intensively, Composition Mode is helpful; while planning, you’ll probably want to see the Corkboard, Outliner, and some documents. With the Layouts Menu, you can decide what to show or hide in the Scrivener interface.
+
+You can access layouts either through *Window > Layouts* on the Menu Bar, or by clicking the layouts icon on the left-hand side of the toolbar:
+
+[screenshot: Show layouts icon on toolbar ]
+
+From here, you can choose different layouts to suit your stage. Experiment with the options to see what might work best for you. Choose _Default_ to restore the main layout of Binder-Editor-Inspector.
+
+===== Hiding Scrivener Elements
+
+Alternatively, you can hide specific elements of the Scrivener interface, such as the Inspector or Binder. This is helpful if you’re working on a small screen and need more space. Either click *View > Hide Binder/Inspector* on the Menu Bar, or use the keyboard shortcuts:
+
+* Hide/Show Inspector — kbd:[option + cmd + i]
+* Hide/Show Binder — kbd:[option + cmd + b]
+
+You can also hide the Header and Footer bars through *View > Editor Layout > Show/Hide Header View or Footer View*. I’m not sure there’s much advantage to hiding these elements. However, if you hide them accidentally, at least you’ll know how to restore them.footnote:[My cat once managed to turn Scrivener upside down. It was very difficult to fix the problem, mainly because everything was upside down.]
+
+===== Creating Your Own Custom Layout
+
+If you stumble upon a layout you like, you can save it as a Custom Layout. Either use the keyboard shortcut kbd:[shift + cmd + )], or go to *Window > Layouts > Manage Layouts*.
+
+[screenshot: Layouts popup window; show plus sign ]
+
+. Click the plus sign in the bottom left-hand corner to add a layout.
+. Give your layout a name, so you can find it again (e.g. Editing).
+. Check the box if you want to save the outliner, corkboard, and metadata settings (the information that appears in the Inspector).
+
+You’ll now see this new layout as an option when you click the layout icon on the toolbar:
+
+[screenshot: Show newly created layout on list. ]
+
+To change or delete it, open the Layouts Manager through *Window > Layouts > Manage Layouts*.
+
+==== Improving Accessibility
+
+The complexity of the Scrivener interface is tough when you’re tired or have a visual impairment. Fortunately, there are several built-in accessibility features.
+
+As I mentioned earlier, you can increase the Editor magnification through the Footer Bar:
+
+[screenshot: Footer bar - text magnification ]
+
+And the font sizes of the interface itself are customizable in the Scrivener settings. I’ll explain these settings in Chapter #XXX#.
+
+===== Switching Between Light and Dark Mode
+
+There are a couple of other features in Scrivener to make it easier on your eyes. Firstly, you can switch between dark and light mode through the main Scrivener menu. On the Menu Bar, click *Scrivener > Appearance*. Either opt for the System Default on your Mac, or choose Light or Dark from the menu.
+
+[screenshot: Appearance options ]
+
+In Dark Mode, you can choose whether you want the Editor to remain light.
+
+Secondly, you can use different themes. A Scrivener theme encompasses the colour, the layout, and the text size.
+
+===== Changing Themes
+
+The default Dark and Light modes are quite stark. You can enliven them by using a theme.  On the Menu Bar, click *Scrivener > Theme* to view the options.
+
+[screenshot: Show Theme options ]
+
+I’m fond of the _Solarized Dark_ theme. It’s easy on my eyes and also looks smart.
+
+You can download additional themes by searching online for Scrivener themes. Currently, there’s no central repository. When you find one you like, download it, then click *Scrivener > Theme > Import Themes* on the Menu Bar and navigate to where you saved the file.
+
+To customize any existing Scrivener theme, click *Scrivener > Preferences > Appearance* on the Menu Bar.. We’ll explore these settings further in Chapter #XXX#.
+
+==== Using Voice Features
+
+If you’re visually impaired or have problems with motor skills, Scrivener’s voice features can help you.
+
+===== Dictation 
+
+Scrivener makes use of the MacOS dictation system. Assuming you have an external microphone, you can speak words aloud and have them turned into editable text in the current Scrivener editor. 
+
+You’ll find the settings under *System Preferences > Keyboard* on your Mac. From here, you can select a microphone, set your language, and create a keyboard shortcut. In this example, I enter dictation mode after pressing the Control key twice.
+
+[screenshot: Dictations settings in System Preferences ]
+
+Alternatively, navigate to *Edit > Start Dictation* on the Menu Bar. A tiny microphone window pops up to show that the system is ready.  
+
+[screenshot: tiny microphone window ]
+
+The precise features available depends on the version of your Mac’s hardware and operating system. For more information, https://support.apple.com/en-gb/guide/mac-help/mh40584/mac[take a look at the help pages].
+
+To add punctuation, say the name of the punctuation mark, for example “comma”. You can also say “new line” or “new paragraph” to break up your text.  For a full list of commands, see the https://support.apple.com/en-gb/guide/mac-help/mh40695/12.0/mac/12.0[Apple support pages].
+
+Dictation tools are never 100% accurate. You’ll need to spend time experimenting and practising. I find it helps to enunciate more than feels comfortable, so it’s best done when you’re alone.
+
+If you’re using a third-party dictation tool like Dragon or Otter, it’s easiest to dictate outside Scrivener, then copy and paste your text. Because Scrivener is autosaving (and possibly syncing with Dropbox), this can interrupt the flow and make the process juddery.
+
+===== Text-to-Speech
+
+Scrivener also makes use of the MacOS built-in screenreader. To hear your words read aloud, on the Menu Bar click *Edit > Speech > Start Speaking*. The active Editor is used as the source text, starting at your cursor. If you’ve highlighted a section of text, only this selection will be read.
+
+To adjust the settings, including the voice and speed, go to the Accessibility pane under System Preferences on your Mac. Here, you can also configure a keyboard shortcut to enter text-to-speech mode.
+
+[screenshot: Voice settings under System Preferences; keyboard shortcut ]
+
+There’s more information on the https://support.apple.com/en-gb/guide/mac-help/mh27448/mac[Apple support pages].
+
+Even if you’re not visually impaired, this feature can help identify missing words or clunky sentences. Hearing your own words spoken by someone else can provide valuable perspective.
+
+=== Summary
+
+You should now be familiar with the main writing features in Scrivener, including styles, adding notes, and inserting footnotes. As you’ll have seen, Scrivener is great for keeping your writing and notes together, but separate. No more hunting for those random documents with cryptic names.
+
+You might also have noticed there are many different ways of performing the same task, for example, through the Menu Bar, by _ctrl-clicking_, or with a keyboard shortcut. There’s no right way to use Scrivener, so just find a way that’s right for you. And give yourself time to get used to the features. Maybe you’re not yet ready for all the features we’ve covered in this chapter — that’s fine. Hopefully, though, you’re now aware of them and you can come back when you’re ready.
+
+Optimizing your workspace reduces some of the Scrivener clutter and helps you focus on what’s important. I think of Scrivener like a dashboard — it contains lots of information, but only some of it is important to me right now. Everyone uses Scrivener in a different way. It’s very flexible, which means you can adapt it to your workflow. It’ll take you a while to establish your workflow. 
+
+We’ve now probably covered everything you’re used to doing in Word. You already know enough to create your project, break it down into more manageable chunks, and start writing. In the next chapter, you’ll see some of the more advanced features that are great for complex projects like a thesis. When you’re ready, I’ll see you there.

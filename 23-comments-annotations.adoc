@@ -1,0 +1,35 @@
+:experimental:
+
+=== Inserting Comments and Annotations
+
+The main difference between Comments and Annotations is where they appear. A *Comment* appears in the Inspector, while an *Annotation* is inline. These Comments and Annotations are just for you and don’t appear in your final exported project (unless you want them to). You can use a mixture of comments and annotations, depending on how conspicuous you want them to be.
+
+[screenshot: annotation and comment ]
+
+==== Inserting a Comment
+
+To insert a Comment, you can either:
+
+	* Click *Insert > Comment* on the top menu.
+	* Click the paperclip icon on the Toolbar and choose *Add Comment*.
+	* Use the keyboard shortcut kbd:[shift + cmd + 8].
+
+You’ll then see a yellow box like a sticky note over in the Inspector. By default, it’ll include a date and time stamp. You can delete this information if it’s unhelpful.
+
+[screenshot: new comment; show X ]
+
+As with footnotes, you can delete the Comment by clicking the *x* in the top right-hand corner.
+
+Also, you can convert a comment to a footnote by _ctrl-clicking_ it and choosing *Convert to Footnote*.
+
+==== Inserting Annotations
+
+For a comment you can see within the text, click *Insert > Inline Annotation* or use the keyboard shortcut kbd:[shift + cmd + a]. As you type, you’ll see the text appears in red and within a bubble. This is useful when you need to draw attention to something. For example, if I’ve made a spurious claim in my writing, I’ll add an inline annotation, reminding me to check my facts.
+
+[screenshot: example of inline annotation — say something clever here / should I move this elsewhere?]
+
+Annotations are also good for adding general notes to yourself, such as what you want to write about next. These notes are then automatically stripped out when you export your Scrivener project.
+
+You can convert existing text to an inline comment by selecting it and pressing kbd:[shift + cmd + a]. These keyboard shortcuts are hard to remember at first, but this is probably one you’ll use all the time. You’ll probably get used to the position of your fingers on the keys.
+
+If you find all those annotations distracting, you can convert them into Inspector comments instead. On the Menu Bar, click *Edit > Transformations > Convert Inline Annotations to Inspector Comments*. They’re all transplanted to the Inspector. This action is reversible. With the same menu, you can Convert Inspector Comments to Inline Annotations.S
