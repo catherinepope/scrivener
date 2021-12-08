@@ -1,0 +1,66 @@
+:experimental:
+
+=== Planning
+
+Although Scrivener is a _writing_ tool, it’s also a _planning_ tool. These two activities hold equal importance here in Scrivener Land. Maybe you’re a pantser — that’s someone who writes by the seat of their pants, hoping for inspiration. You haven’t the faintest idea what you’re going to write until you see it. A kinder term is discovery writer. Even if that’s you, you’ll make it easier for yourself if you use at least a few of the features I’ll show you in this chapter. If you’re a planner, you’ll be in heaven.
+
+First, we’ll set up your Research Folder. This is where you stash the material you  refer to while writing. As I’ll show you, it’s easy to display journal articles, images, or even videos alongside your writing. Once you’ve got everything you need, you can focus on generating those words.
+
+Then we’ll return to the Corkboard. In the previous chapter, we used the Corkboard to view existing documents. This time, we’ll create a storyboard and experiment with different sequences. The Corkboard is especially good for visual thinkers.
+
+If you prefer a more detailed approach, the Outliner is for you. We’ll create a structure or wireframe for your Project and also display important information, such as the word count.
+
+In a thesis, we often employ a repetitive structure, especially in areas such as the literature review and in case studies. I’ll show you how to create reusable templates. These will save you time, ensure consistency, and also provide prompts when you’re lacking inspiration.
+
+There are lots of ways to monitor your progress in Scrivener. In this chapter, we’ll look at two: word targets and status. You’ll notice that Scrivener is both a writing tool and a project management tool. Once you’ve set up some targets, you can quickly see what’s left to do.
+
+Let’s make a plan.
+
+==== Setting up the Research Folder
+
+The Research Folder is where you keep all the material to which you need to refer while writing. It’s like that big pile of random documents that sits on your desk. You can add text documents, PDFs, images, webpages, and even videos. When you import a file, Scrivener takes a copy, so you don’t need to worry about messing up your original version, either.
+
+[screenshot: Show Research folder — consolidate with dragging into Research folder ]
+
+===== Adding Files to the Research Folder
+
+There are two main ways to add files to your Research Folder:
+
+	* Drag the file from elsewhere on your computer.
+	* Ctrl-click on Research in the Binder, then *Add > Existing Files*
+
+If the file is text-based, for example a Word document, it’ll be converted to Rich Text Format. Otherwise, Scrivener preserves the format. For PowerPoint slides, it’s best to convert them to PDF format before importing. Then Scrivener can display them correctly.
+
+You can also drag an entire folder. For example, if you have a folder called Journal Articles on your Mac, click and drag the folder into the Research folder. Scrivener then replicates the folder and its contents.
+
+As with your Draft, you can create sub-folders within the Research Folder. This is helpful for grouping content together, such as journal articles, videos, images, or transcripts. Click the little folder icon at the bottom of the Binder to create one or use the keyboard shortcut of kbd:[cmd + option + n].
+
+[screenshot: little folder at bottom of Binder]
+
+It’s important to remember that any files you import into the Research folder increase the size of your Scrivener project. This means your backups will consume more space and bandwidth. Also, you might experience some lag with massive projects.
+
+In Chapter #XXX#, I’ll show you how you can use Project Bookmarks to link to external files instead of importing them.
+
+===== Adding Webpages to the Research Folder
+
+You might notice on the *Research > Add* menu there’s an option to add a Web Page. Theoretically, you can enter the address and Scrivener imports the page. In reality, it usually looks like a dog’s dinner. This is because websites are complicated these days and Scrivener struggles to recreate all the fancy formatting. It’s much better to create a new text document within the Research Folder (kbd:[cmd + n]), then copy and paste any web content into it. If you do need to preserve all the formatting, take a screenshot of the webpage or save it as a PDF.
+
+===== Using Split Screen with the Research Folder
+
+Once you’ve got some content in your Research Folder, you can view it alongside the Editor using xref:12-getting-to-know-scrivener.adoc#_viewing_multiple_documents_with_split_screen[split screen mode]. Click the Split Screen icon on the right-hand side of your Header Bar.
+
+[screenshot: split screen icon in header bar ]
+
+If you’re viewing a PDF, you’ll see some additional information in the Footer Bar. Here, you can navigate through the pages using the arrows and also open the PDF in an external application, such as Adobe Acrobat. If you make changes to your PDF in that external application, they’ll be saved to the version stored in Scrivener, too. This is helpful if you want to add highlights or annotations. Click the reload icon to make sure your changes are visible.
+
+[screenshot: PDF footer — show all the features described]
+
+With a PDF displayed alongside your Editor, it’s easy to copy and paste text, such as quotes. To zoom in and out, ctrl-click the PDF for options.
+
+===== Viewing Multimedia Files in the Research Folder
+
+If you’re viewing a video or audio file in the Research Folder, you’ll see some media controls for playing, pausing, rewinding, and fast-forwarding. You can also use kbd:[cmd + enter] to play and stop. This keyboard shortcut works, even if you’re typing in the other Editor. It’s great for transcription. Scrivener also rewinds a few seconds each time you stop. This reminds you of the context and gives you a chance to get your fingers in the right place. 
+
+[screenshot: media controls]
+
+There are many more ways of viewing your documents in Scrivener. We’ll look at those in Chapter #XXX.[ Do we???]# For now, I just want you to get a sense of how the Research folder might work for you.

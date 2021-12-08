@@ -254,3 +254,11 @@ As well as other documents, you can also display the Corkboard or Outliner in th
 If you end up with a peculiar layout and you’re not sure what you’ve done, you can reset Scrivener to the default layout. Click the layout icon on the left-hand side of the toolbar, choose Layouts, and then Default.
 
 [screenshot: Show how to restore to Default Layout ] 
+
+==== Summary
+
+We’ve already covered quite a lot in this chapter. Those features alone are enough to get you writing and structuring your work in Scrivener. If you’re feeling over-stimulated, keep practising what we've covered until you’re comfortable. Scrivener is unlike anything you’ve used before, so it’ll take time to master.
+
+Get used to breaking your work down into smaller documents or blocks. The main advantage of this approach is that you can focus on just one block at a time. Later, at the editing stage, you can put those blocks in the right order and create segues between them. Our poor brains can’t cope with writing and structuring at the same time.
+
+Later, I’ll show you many helpful editing features, along with several techniques for organizing your Scrivener Project. For now, though, experiment until you’re ready to move on. Then close your Project and have a cup of tea. Scrivener opens your Project exactly where you left off last time. When you're ready, I'd love to show you some marvelous planning techniques.

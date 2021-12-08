@@ -1,0 +1,63 @@
+:experimental:
+
+=== Planning with the Corkboard
+
+You've already seen the Corkboard, so probably have a good idea of its possibilities. We saw it in relation to existing documents, though. The Corkboard is also great for planning a project from scratch. You can get everything out of your head, create some blocks, then start moving them around.
+
+Let’s create a new project. As before, click *File > New Project* and choose *Blank*.
+
+Make sure you have Draft selected in the Binder, then switch to Corkboard View (kbd:[cmd + 2]).
+
+[screenshot: Draft is selected; corkboard view icon]
+
+Now you can quickly create new documents in the Corkboard by pressing kbd:[cmd + n]. Type a title at the top of the card, then add a synopsis below.
+
+[screenshot: virtual index card]
+
+ This synopsis can comprise anything you like: a detailed outline, some random thoughts, or just a few keywords. You're creating the building blocks of your project.
+
+Once you have a few of these index cards or building blocks, you can move them around and assemble a storyboard. You'll see they also jump around in the Binder as you move them on the Corkboard.
+
+If you want to open and edit the document, double-click the text icon in the top left-hand corner of the index card.
+
+[screenshot: text icon on index card — can I consolidate this with the screenshot above?]
+
+If you click on the 'i' on the Toolbar to display the Inspector, you can see that synopsis from the Corkboard. This synopsis reminds you what you were going to write about. The Inspector allows you to inspect the additional information associated with each document.
+
+==== Using Images with the Corkboard
+
+You can also display an image in the Synopsis. This is good if you're working on a visual project, such as art history, or just for encouragement. 
+
+[screenshot: tiny image icon + consolidate with toggle icon ]
+
+Click the tiny image icon in the top right-hand corner of the synopsis. Then you’re invited to drag and drop an image in the gray box.
+
+Now when you go back to your Corkboard, you’ll see an image instead of text. You can then toggle between the text and the image with that icon in the top right-hand corner of the Synopsis panel in the Inspector.
+
+==== Adjusting the Corkboard
+
+You can change the size of your cards, their proportions, the space between them, and the layout. To customise, click on the Corkboard Options icon in the Footer Bar. You’ll see a pop-up menu.
+
+[screenshot: show Corkboard Options icon ]
+
+==== Using the Freeform Corkboard
+
+By default, the Corkboard uses a grid system to keep everything in alignment. If you find that too restrictive, you can instead use the Corkboard in *Freeform* mode.
+
+Click the Freeform icon at the bottom of the Corkboard.
+
+[screenshot: Freeform mode icon + show cards in freeform mode ]
+
+Now you can click and drag the index cards anywhere you like. This is helpful if you want to experiment with different sequences and temporarily move some of the index cards out of the way (rather like doing a jigsaw puzzle).
+
+Unlike grid mode, freeform mode doesn’t make any changes to the order of the documents in your Binder.
+
+[screenshot: Make this clear by showing Chapters numbers in freeform that are still in correct order in Binder ]
+
+If you decide you like your new arrangement, click Commit in the Footer Bar. Scrivener then does its best to rearrange your documents in the Binder to reflect the order on the Corkboard. You can exert more control by telling it where to start (top, left, bottom, or right) and the order (either left to right, or right to left).
+
+[screenshot: Show some higgledy piggledy index cards and number them to show the order in which they’ll be arranged. ]
+
+I'm sure you’ll devise lots of inventive ways of using the Corkboard feature. It’s useful for seeing your Project visually, rather than confronting endless text. In Chapter #XXX#, I’ll show you some more sophisticated techniques for managing your Project with the Corkboard. As I mentioned earlier, you don’t want to get distracted by the structure when you’re supposed to be writing. You can focus on the content, then reorganize it later with the Corkboard.
+
+Whereas the Corkboard is good for high-level planning and visual thinkers, the Outliner is much better for details. Let's take a look.
