@@ -6,8 +6,8 @@ Some of you might be writing plays or novels as part of a practice-based PhD. Wh
 
 Naturally, I can’t cover specific disciplines or fields, either.  Everyone’s thesis is different — that’s the point, after all — so some of the examples might not be relevant to you. However, this ebook will teach you the basics of Scrivener and get you to the point where you’ll be able to search for answers to more specific queries. You’ll find details of support SIGNPOST at the end of the ebook.
 
-I’m not assuming any prior experience of Scrivener, but I __am__ expecting a reasonable level of IT literacy, e.g. that you know what I mean by copying and pasting and ctrl-clicking. Also, I’m assuming you have a desktop computer or laptop running MacOS 10.12.1 Sierra or above, an internet connection, and the necessary permissions to install software (this might not be the case on a work or university computer).
+I’m not assuming any prior experience of Scrivener, but I _am_ expecting a reasonable level of IT literacy, e.g. that you know what I mean by copying and pasting and ctrl-clicking. Also, I’m assuming you have a desktop computer or laptop running MacOS 10.12.1 Sierra or above, an internet connection, and the necessary permissions to install software (this might not be the case on a work or university computer).
 
 Although Scrivener is available for iOS (iPhones and iPads), I won’t be covering either of those versions. If you enjoy writing on a tiny screen, I’d recommend learning the desktop version first. And I won’t address the Touch Bar on the MacBook Pro. If you’re lucky enough to have one of those, you can find more information in section 4.4.2 of the Scrivener manual (which is available from the Scrivener help menu).
 
-I’ll be covering only the Mac version of Scrivener, as there are a few differences for Windows users. I have published a separate ebook on __Writing your PhD with Scrivener for Windows__.
+I’ll be covering only the Mac version of Scrivener, as there are a few differences for Windows users. I have published a separate ebook on _Writing your PhD with Scrivener for Windows_.

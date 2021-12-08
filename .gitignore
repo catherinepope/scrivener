@@ -6,3 +6,7 @@ output
 
 # Ignore all EPUB files
 *.epub
+
+# Ignore notes
+
+notes.md

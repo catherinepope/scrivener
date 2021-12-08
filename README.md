@@ -1,1 +1,1 @@
-This project, written in Asciidoc, will become an ebook called _How to Write Your PhD with Scrivener_.
+This project, written in Asciidoc, will become an ebook called _How to Write Your PhD with Scrivener_. I'm using Asciidoctor EPUB3 to generate the files.
