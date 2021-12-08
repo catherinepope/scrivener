@@ -4,6 +4,9 @@
 # Ignore output directory
 output
 
+# Ignore VS Code directory
+.vscode
+
 # Ignore all EPUB files
 *.epub
 
@@ -15,5 +18,5 @@ output
 notes.md
 
 # Ignore gemfiles
-gemfiles
+gemfile
 Gemfile.lock
