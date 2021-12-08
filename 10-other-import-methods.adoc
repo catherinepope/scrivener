@@ -1,0 +1,5 @@
+=== Other Import Methods
+
+You can import almost any word-processed file into Scrivener. For best results, however, make sure it’s in Rich Text Format (RTF). Scrivener will recognize all the formatting and include any footnotes from RTF files. You can also copy and paste content from other applications.
+
+Now you've got some text in Scrivener without having to do any typing. It might look a bit messy to start with, though. Here are a couple of quick methods for tidying it up.

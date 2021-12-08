@@ -1,0 +1,256 @@
+:experimental:
+
+=== Getting to Know Scrivener
+
+The advantage of breaking everything down into smaller documents in that you can move them around and view them in different ways. Scrivener allows you to think in blocks, rather than struggling with one massive linear document in Word.
+
+Now we’ll start interacting with those blocks. By viewing and organizing them in different ways, you’ll see the possibilities of Scrivener.
+
+If you haven’t already imported a Word document, do that first. It’s important to try out the features for yourself.
+
+==== Moving Documents
+
+Now you have some documents in your Binder, you can start moving them around. Just click a document in the Binder and drag it up or down with your mouse.
+
+You can also drag one document onto another document to create a hierarchy. This document is now a _sub-document_.
+
+[screenshot: sub-document]
+
+Sometimes, documents stubbornly insist on attaching themselves to other documents. To prevent this happening, hold down the kbd:[Option] key as you drag. This ensures the document remains independent and retains its status in the hierarchy.
+
+If your mouse is unruly, you might find it easier to use the keyboard shortcuts of kbd:[cmd + ctrl + >] to indent or kbd:[cmd + ctrl + <] to outdent a document in the Binder hierarchy.
+
+[screenshot: show keyboard shortcuts and their impact]
+
+While you're getting used to the Binder, documents will almost certainly pop up in unexpected places. Allow yourself to play around and build your confidence.
+
+==== Splitting Documents
+
+If you decide a document is too big, you can split it into two smaller documents. Place your cursor where you want the split to occur, then in the Menu Bar click *Documents > Split > At Selection*. A new document appears in your Binder. It’ll duplicate the title of the original document. You can change this title by clicking on the Header Bar.
+
+[screenshot: Header Bar showing document-1 title]
+
+Another option is to use a heading as the title of the new document. Here I've selected the heading of a section I'd like to turn into a separate document. Click *Documents > Split > With Selection as Title*.
+
+[screenshot: Heading + new split document]
+
+I usually split documents once they’re longer than 1,000 words. This makes them more manageable, as I don’t spend my time scrolling up and down. It also keeps my writing more tightly focused, as the document title becomes a specific topic or question I’m addressing. 
+
+You probably don’t want hundreds of small sections in your final thesis, but you can also merge them afterwards. This approach is about making it easier for yourself while you’re writing.
+
+==== Merging Documents
+
+If you get carried away and create hundreds of tiny documents, you can also merge them. Select the documents in the Binder by holding down the kbd:[cmd] key as you click, then click *Documents > Merge on the Menu Bar*.
+
+[screenshot: show non-contiguous documents selected in Binder]
+
+Of course, you can always xref:12-getting-to-know-scrivener.adoc#_splitting_documents[split them again] if you change your mind.
+
+I like to have lots of small documents initially, then merge them once my project has taken shape. When we’re writing, we often get distracted by the structure. This means we’re trying to create the content and decide exactly where it should appear. No wonder our brains hurt. 
+
+With Scrivener, you can create building blocks and then fit them together afterwards. As you’ll see later in this chapter, Scrivener provides different ways of viewing all those building blocks, which makes it easier to get them in the right order.
+
+==== Moving and Appending Text
+
+Perhaps you just want to move part of a document. If so, select the relevant text, ctrl-click and choose *Append Text to Selected Document* from the menu. You can then choose the document in your Draft to which the text should be appended. Alternatively, you can choose to append to a new document.
+
+[screenshot: Append Text ]
+
+The appended text appears at the bottom of the destination document.
+
+This action duplicates the text — it’s like copying and pasting, rather than cutting and pasting. You need to make sure you delete the original text, otherwise you’ll have the same content twice. In Chapter #XXX#, I’ll show you how to find repeated text across your project.
+
+Alternatively, you can select the text you want to move, then drag it onto the destination document in the Binder. This time, the text is moved rather than copied, so it’s like cutting and pasting. Again, it appears at the bottom of the destination document.
+
+[screenshot: Dragging text to another document ]
+
+I use this technique for unsatisfactory paragraphs. They don’t quite fit in this document, but I’m not yet ready to delete them. I create a document called Offcuts, and drag those paragraphs into it in the Binder. Occasionally, I rummage in the Offcuts and actually find something useful.
+
+===== Moving Text Between Projects
+
+You can also move text between two separate Scrivener Projects. By default, multiple projects appear in tabs:
+
+[screenshot: Scrivener project tabs ]
+
+This is useful if you want to save space on your screen. For moving documents and text, though, you’ll want the Project to appear in separate windows. To do this, _ctrl-click_ one of the tabs and choose *Move Tab to New Window*.
+
+[screenshot: ctrl-click tab ]
+
+Now you can drag documents between two projects. Or, as before, you can can select and drag specific text within a document to another Project.
+
+[screenshot: multiple projects and dragging ]
+
+This probably isn’t a feature you’ll use very often. However, it’s useful in certain circumstances. For instance, I was writing a book that had become an irretrievable mess. I created a new Scrivener project, then dragged across the salvageable parts. Sometimes it’s easier to start again. Once you’ve finished wailing, of course.
+
+==== Creating New Documents
+
+To create a new document, click the green plus sign on the Toolbar.
+
+[screenshot: green + sign in toolbar]
+
+Actually, there are at least six ways to create a new document in Scrivener. While this can be annoying at first, this flexibility becomes an advantage once you’re a more experienced user. You’ll then be able to use the method that best suits you.
+
+For now, I’ll just share one other method for creating a new document: the keyboard shortcut kbd:[cmd + n]. I’ve included a list of the most useful keyboard shortcuts [SIGNPOST]. I think it’s better to use other methods while you’re learning, though, as it’ll help you familiarize yourself with the interface.
+
+==== Duplicating Documents
+
+If you already have a document you want to use as a template, you can duplicate it. Select the document in your Binder, then click *Documents > Duplicate* in the Menu Bar. Don’t use this for taking backups of a document — there’s a better way! We’ll be looking at creating Snapshots later on. There’s also a better method of creating templates.
+
+==== Working with Folders
+
+An alternative or addition to the document hierarchy is to create folders. To create a new Folder, click and hold the green plus sign on the toolbar and choose *New Folder*. 
+
+[screenshot: green plus sign and New Folder]
+
+You can then click and drag documents into your newly created folder.
+
+You can also convert an existing document into a folder. Select the document in the Binder, then _ctrl-click_ and choose *Convert to Folder*. The main difference between a folder and a simple document hierarchy is visual: you'll see a blue folder icon in the Binder.
+
+[screenshot: Folder icon]
+
+Some writers like to use Folders to denote chapters, but it’s entirely up to you.
+
+Spend some time creating documents and folders in a dummy project and moving them around. You can't break anything. You can always start again if it you create utter chaos.
+
+==== Writing in the Editor
+
+If nothing else, writing in Scrivener should be familiar. You just type in the Editor and use the formatting bar to apply bold, italics, bullet points, and so on. The main difference from a tool like Word, though, is that in Scrivener, you decide on the style and layout of your finished document when you compile and export it. You don't need to know that now, though. We'll explore Styles in Chapter #XXX# and Compiling and Exporting in Chapter #XXX#. For now, you can just merrily type in the Editor.
+
+The sharp-eyed among you will notice the word count in the Footer Bar increases as you type. You can also see the magnification settings here.
+
+[screenshot: Footer Bar]
+
+ Apart from the obvious accessibility benefits, high magnification is good for focusing on specific paragraphs and not getting distracted by the rest of the document. When we’re working on an elusive sentence, there’s always a temptation to endlessly reread what we’ve already written.
+
+==== Navigating the Binder
+
+Once you have some documents in your Binder, you’ll need an easier way of navigating between them. Let’s take a closer link at the *Document Header*.
+
+[screenshot: Document Header with arrows ]
+
+On the left-hand side, you’ll see right and left arrows. With these arrows, you can navigate backwards and forwards through your document history (like a web browser). So, clicking left (or back) takes you to the previous document viewed, rather than the previous document in the Binder. 
+
+On the right-hand side of the Document Header, you’ll see up and down arrows. These arrows take you up and down the Binder in order. This is especially helpful when you’re editing and want to review each document in turn.
+
+===== Expanding and Collapsing the Binder
+
+When you have a lot of documents in the Binder, you might want to collapse them so it’s not too cluttered. To collapse the Binder, make sure you’ve selected it by clicking anywhere within the Binder, then on the Menu Bar click *View > Outline > Collapse All*. There’s also an option to Expand All if the Binder is currently collapsed. 
+
+Confusingly, there are two instances of Outline in this menu. You want the one that appears nearer the bottom:
+
+[screenshot: Outline menu ]
+
+Alternatively, you can use the keyboard shortcuts: kbd:[cmd+9] to expand the Binder and kbd:[cmd+0] to collapse it.
+
+To expand and collapse a specific group or folder of documents, hold down the kbd:[Option] key (⌥) and click on the arrow next to it (this is called a _disclosure triangle_). All the documents within that group (including sub-documents) will expand or collapse.
+
+[screenshot: disclosure triangle + fully expanded, multi-level hierarchy ]
+
+This helps you focus on the documents within a specific folder or chapter. 
+
+To locate the document that’s currently displayed in the Editor, _ctrl-click_ on the Document Header and choose *Reveal in Binder*. Your document is then highlighted in the Binder.
+
+[screenshot: Document Header + Reveal in Binder ]
+
+==== Viewing Multiple Documents with Split Screen
+
+In the right-hand corner of the Document Header, you'll see a tiny icon with two windows. This is *split screen mode*.
+
+[screenshot: split screen icon]
+
+Click this icon and you’ll have two Editors. Initially, you’ll see the same document twice, which isn’t terribly helpful. However, if you select the right-hand Editor by clicking inside it, any document you open from the Binder pops up here instead. You can tell which Editor is selected because the Header Bar turns blue.
+
+[screenshot: show split screen with highlighted Header Bar ]
+
+If you prefer a horizontal split, hold down the kbd:[Option] (⌥) key when you click the split screen icon.
+
+[screenshot: horizontal split]
+
+When the split is vertical, the additional editor is referred to as the *Right Editor*. In horizontal split mode, it’s called the *Other Editor*. Your selected Editor is just called the Editor.
+
+If you _ctrl-click_ a document in the Binder, you can choose to open it in the Other (or Right) Editor, i.e. whichever Editor is not currently selected. You’ll still get this option, even if you’re not already in split screen mode.
+
+[screenshot: open document from the Binder in the Other Editor ]
+
+This is useful if you’re working on one document and want to compare it with another.
+
+You can adjust the width of your Editors by clicking and dragging the bar that runs down the middle. And you can also zoom in and out on them independently on the Footer Bar.
+
+[highlight dragging position on screenshot] — consolidate
+[screenshot: show zooming on Footer Bar]
+
+To return to one editor, click the Split Screen icon again. First, make sure you've selected whichever Editor you still want to see (the Header Bar should be blue).
+
+===== Locking the Editors
+
+When you’re getting used to Scrivener, documents have a tendency to pop up in the wrong Editor. This is especially annoying if you’re trying to work from a reference document in the Other Editor. By _ctrl-clicking_ the tiny document icon in the left-hand corner of the Document Header, you can *Lock in Place*. You’ll then see a padlock to the right of the Header Bar and the bar itself turns grey.
+
+[screenshot: Document locked in place ]
+
+From now on, no matter which Editor is selected, anything you open will appear in the unlocked Editor. If you want to unlock it, _ctrl-click_ the Document Header again and click *Lock in Place* to remove the tick.
+
+The Inspector shows the details of whichever Editor is currently selected. You can override this by _ctrl-clicking_ that tiny document icon in the Header Bar and choosing Lock Inspector to Editor. Now the Inspector displays the details relating to the Other Editor. 
+
+[screenshot: Lock Inspector to Editor — show that it’s showing details for the Other Editor ]
+
+Split screen mode is ideal for referring to reference material while you write — which is what we’ll do in the next chapter.  It’s also immensely helpful when editing as you can display the introduction and conclusion of a chapter alongside each other. This makes it much easier to ensure continuity.
+
+It does take a while to get used to the different editors. Later, I’ll introduce you to Copy Editors, which allow you to view additional documents.
+
+==== Viewing in Group Mode
+
+The last feature I want to show you for now is Group Mode. This allows you to view multiple documents in different formats and combinations. The Group Mode icons live on the Toolbar.
+
+[screenshot: Group Mode in Toolbar]
+
+Group Modes work on groups of documents, e.g. folders, or documents that have sub-documents. The Group Modes are *Scrivenings*, the *Corkboard*, and the *Outliner*.
+
+===== Scrivenings
+
+*Scrivenings* shows you multiple documents in a continuous scroll. Those documents don’t need to be next to each other in the Binder, so this mode is good for experimenting with different sequences and creating segues. This is helpful if you’ve created a lot of small documents and need to join them together.
+
+To view everything in my Introduction as one document, I select the main document in the Binder, then click the Scrivenings icon on the toolbar (or use the keyboard shortcut kbd:[cmd + 1].
+
+When I scroll through, I can see everything from the sub-documents, too. The individual documents are visually separated by a dashed line. Now I can make sure they flow together by adding some joining text.
+
+[screenshot: Scrivenings mode]
+
+If you want to experiment with a different order of documents without actually moving anything around, you can select non-contiguous documents in the Binder by holding down cmd as you click. Scrivenings mode is triggered automatically. The documents are displayed together as before with a dashed line to separate them.
+
+To exit this mode, just click anywhere in the Binder or click the Scrivenings icon again.
+
+===== The Corkboard
+
+The *Corkboard* shows documents in your group as index cards. You can access it with the Toolbar icon or with the keyboard shortcut kbd:[cmd + 2]. By default, these index cards display an excerpt from each document, but you can add your own text. In this view, you can drag and drop the cards to change the order. As you move them, you’ll see they jump around in the Binder, too.
+
+[screenshot: Corkboard]
+
+You can change the document title by clicking on it within the card, or open the document itself by clicking the tiny document icon in the top left-hand corner.
+
+[screenshot: tiny icon]
+
+===== The Outliner
+
+The Outliner presents your document group as a list, along with some additional information about those documents. You can access it with the Toolbar icon or with the keyboard shortcut kbd:[cmd + 3].
+
+[screenshot: Outliner ]
+
+There’s probably not much information right now, but you’ll be adding some later. Again, you can change the order of your documents by clicking and dragging within the Outliner. You can also sort by title here — click the *Title and Synopsis* heading to arrange them alphabetically. This doesn’t change the order in the Binder.
+
+[screenshot: Sort order in Outliner ]
+
+===== Understanding Group Mode
+
+The Corkboard and Outliner only work at group level, so where you have a folder of documents, or a main document with sub-documents. 
+
+If I select Introduction in my Draft, I can see a Corkboard because it has sub-documents; if I click on one of those sub-documents, the Corkboard is empty, because there are no documents beneath it in the hierarchy. The same principle applies to the Outliner.
+
+You can use both the Corkboard and the Outliner for your overall project, though. If you click on Draft in the Binder, you can then see all your top-level documents or folders as a Corkboard or an Outliner.
+
+It took me a while to get my head around Group Mode, so do be patient with yourself if it’s not yet making complete sense. We’ll do a lot more with both the Corkboard and the Outliner in the next chapter.
+
+As well as other documents, you can also display the Corkboard or Outliner in the Other Editor using xref:12-getting-to-know-scrivener.adoc#_viewing_multiple_documents_with_split_screen[split screen mode]. Make sure the Other Editor is selected (the Header Bar will be blue) and then click on an item in the Binder that has subdocuments and choose Corkboard or Outliner view from the toolbar or with the keyboard shortcuts kbd:[cmd + 1] or kbd:[cmd + 2]. Now you can see all your synopses or the outline as you write.
+
+If you end up with a peculiar layout and you’re not sure what you’ve done, you can reset Scrivener to the default layout. Click the layout icon on the left-hand side of the toolbar, choose Layouts, and then Default.
+
+[screenshot: Show how to restore to Default Layout ] 

@@ -22,7 +22,7 @@ Under Preferences, you can further customize your experience. This stuff is bori
 
 . Please don’t switch off automatic backups. It’s not good for my nerves. 
 
-. You could decide to backup only when you press cmd + s, but that means you have to remember. I think it’s best to check the box for *Back up on project close*. There’s no reason why you can’t also include the manual save. I try to do this each time I’ve made major changes during a writing session.
+. You could decide to backup only when you press kbd:[Cmd+ s] to save, but that means you have to remember to do so. I think it’s best to check the box for *Back up on project close*. There’s no reason why you can’t also include the manual save. I try to do this each time I’ve made major changes during a writing session.
 
 . It’s a good idea to *Compress your automatic backups as zip files*. Although the process itself takes longer, you’ll potentially save a lot of disk space. That’ll help if you’re syncing with Dropbox or a cloud-based backup tool.
 

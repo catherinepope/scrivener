@@ -1,0 +1,17 @@
+=== Formatting Imported Text
+
+If you're importing different documents into Scrivener, it's easy to end up with a hotchpotch of formats. To ensure consistency, on the Menu Bar click *Documents > Convert > Text to Default Formatting*. This applies default formatting throughout whichever document is visible in the Editor. I’ll show you how to change that default formatting in the next section.
+
+If you have footnotes, you’ll probably want to tidy those, too.
+
+Make sure the *Inspector* is visible (click the blue icon if it isn’t). Then click the speech bubble icon on the right. 
+
+[screenshot: Inspector and Footnotes — also show ‘I’]
+
+This is where comments and footnotes live. The existence of a footnote is indicated by hyperlinks in the text. 
+
+[screenshot: footnote hyperlinks]
+
+To apply the default formatting, _ctrl-click_ the footnote and choose Convert to Default Formatting. To format multiple footnotes, first select them all by clicking one, then pressing cmd + a.
+
+We're not going to worry about any other formatting techniques right now. You'll probably use those two fairly regularly, though, for tidying imported text. I’ll show you how to work with styles in Chapter #XXX#.

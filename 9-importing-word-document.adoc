@@ -1,0 +1,50 @@
+=== Importing a Word Document
+
+You probably have some existing writing in a Word document. Now I’ll show you how to import this document into Scrivener and start using some of the main features. The process is exactly the same if you’re using LibreOffice, a popular free and open source alternative to Microsoft Office.
+
+As I explained earlier, one of Scrivener's key strengths is that you can break down your work into smaller documents or chunks. Scrivener's import feature can automatically create those chunks from your Word document.
+
+Here’s what you need to do:
+
+==== 1. Find and format Your Word document
+
+Find the document you want to work with. I suggest something substantial, like a chapter or article.
+
+This task is more straightforward if you already have a consistently formatted Word document with proper headings. First check the document to make sure the headings have been applied properly. You'll need to use Heading 1, Heading 2, Heading 3, and so on. Clicking *View > Navigation Pane* in Word can help you see them more easily.
+
+[screenshot: Viewing headings in Word ]
+
+In my example here, I have Heading 1 for my chapter titles, Heading 2 for sections, and Heading 3 for sub-sections. 
+
+[screenshot: Word sample with headings]
+
+Don’t worry about getting it perfect at this stage. For now, you’re just experimenting in Scrivener. 
+
+Once you’ve applied your headings, close the Word document.
+
+==== 2. Import your Word file into Scrivener
+
+In Scrivener, first make sure you've selected your Draft by clicking on it in the Binder. It should be highlighted like this:
+
+[screenshot: Draft selected in Binder]
+
+This ensures you import your Word document to the right place. Then follow these steps:
+
+	. Click *File > Import > Import and Split* on the Menu Bar.
+	. Find your Word document wherever you saved it.
+	. Select the option that says *Split using the document’s outline structure*.
+	. Click *Import*.
+
+[screenshot: Import and Split dialog box ]
+
+Scrivener creates a document for each section and uses the heading as a title.
+
+[screenshot: imported document]
+
+You’ll see that Scrivener observes the hierarchy: heading 2 is nested within heading 1 and heading 3 is nested within heading 2.
+
+If you’ve got an untitled blank document like this at the top, you can delete it by selecting it and pressing cmd + delete.
+
+[screenshot: untitled blank document]
+
+Now you’ve got some documents, you can start moving them around.
