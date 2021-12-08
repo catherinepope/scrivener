@@ -1,0 +1,71 @@
+:experimental:
+
+=== Setting Word Targets
+
+Earlier, I showed you how to set word targets in the Outliner [SIGNPOST]. You can also set targets in individual documents.
+
+If you squint at the Footer Bar of a document, you’ll see a tiny target icon.
+
+[screenshot: tiny target icon ]
+
+Click on the target icon, and you’ll see some options.
+
+[screenshot: target options ]
+
+Here, you can set two targets: your main target, and a minimum — or perhaps more realistic — target. During the early stages of writing, you might be happy with just reaching the minimum target.
+
+You can also set an overrun allowance. You don't want to write more than is necessary, as it'll give you a lot more editing to do. By specifying a maximum number of extra words, you’ll get a prompt when you exceed it.
+
+Finally, check the *Show target notifications* box to get a pleasing notification when you've hit your target. It'll also let you know you've got carried away and written too much.
+
+Once you’ve set a target, you’ll see a progress bar in the Footer Bar of your document. As you type, you’ll see the word count increase and the progress bar gradually move and change colour. It starts red, moves through to orange, then finally turns green as you approach your target.
+
+==== Tracking Word Counts from the Outliner
+
+I’ve already showed you how to display word counts and targets in the Outliner [SIGNPOST]. You can also track the progress of multiple documents from the Outliner.
+
+[screenshot: show group level document, Outliner icon, tiny arrow + Progress checkbox + Progress bar ]
+
+Select a group level document (either a folder or a document with sub-documents) in the Binder and click Outliner on the Toolbar (or kbd:[cmd + 3]).
+
+Next, click the tiny arrow in the top right-hand corner of the Outliner and check the box next to Progress.
+
+Now you’ll see a Progress bar to reflect how close you are to the target.
+
+This is my second favorite Scrivener feature. You'll discover my absolute favorite later on.
+
+==== Setting a Word Target for Your Project
+
+You can also set an overall word target for your Project. On the top menu, click *Project > Show Project Targets*. Although this is a small dialog box, there are a lot of options — some of them well hidden.
+
+To set your Project target, click the 0 before words. It looks like text, but this is an editable field.
+
+[screenshot: Project Target box — highlight clickable areas ]
+
+Enter the number here, then you’ll see a progress bar.
+
+You can also set a Session Target. A session can be a day, or you can have multiple sessions within a day. By default, the session is reset at 1am each day. You can change this setting under *Options*. Here you can choose to reset the session at a different time or when you close the project.
+
+[screenshot: Target Options ]
+
+Options also provides some additional features. As with individual documents, you can set an Overrun Allowance.
+
+You can choose which documents are included in the word count. For instance, you probably wouldn’t want to include the documents in your Research or templates folder. We’ll talk more about including and excluding documents in Chapter #XXX#. You’re likely to want to keep this box checked, though.
+
+As with word targets on individual documents, you can choose to receive a notification when you’ve reached that elusive Project target.
+
+==== Setting a Deadline and Calculating Your Session Target
+
+You can also give yourself a Deadline. Then Scrivener calculates how many words you need to write each day. That might be either reassuring or terrifying, depending on the proximity of your deadline.
+
+To calculate your daily target, click on the *Session Target* tab within the window. Check the box that says *Automatically calculate from draft deadline*. 
+
+Then specify which days you’ll be writing (all of them, if that deadline’s close). 
+
+Decide whether you’re allowed to write on the day of the deadline, and turn on notifications, if they’re useful. Click OK.
+
+You’ll now see your overall progress, plus your progress for the current sessions. Scrivener has calculated a daily target for you. 
+
+Scrivener recalculates the target for each session. For example, if your target today is 500 words and you actually write 600 words, tomorrow’s target will be reduced slightly.
+
+There used to be an option to automatically tweet your daily word count. Mercifully, this was removed in the latest version of Mac OS. There’s nothing more annoying than someone else’s four-digit word count when you’ve been struggling with one uncooperative sentence all day.
