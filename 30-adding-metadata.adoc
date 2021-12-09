@@ -76,3 +76,40 @@ To give yourself more space when using this feature, you can hide the Binder (kb
 
 You can apply only one label to each document. To add multiple terms, you’ll need keywords.
 
+==== Keywords
+
+Keywords are another type of metadata you can associate with your documents. They’re useful for both classifying and searching. Keywords aren’t as visible as labels, but they’re more flexible. You can add multiple keywords to documents and also create hierarchies or taxonomies. If the idea of taxonomies is making you nervous, you can skip to the section on Searching [SIGNPOST].
+
+===== Adding a Keyword
+
+To add a keyword, click on the Metadata tab in the Inspector. It’s the icon that looks like a luggage label or tag. Now click the plus sign next to *Keywords* and enter your word. It’s added to the list, along with a coloured blob. You can change the colour of the blob by double-clicking it. 
+
+[screenshot: Keywords & Label, show plus, minus, and ellipsis ]
+
+If you click on the ellipsis and choose *Show Project Keywords*, you get a popup window with more options. Now you can create taxonomies, or hierarchies of keywords. For example, here I have the keyword Marriage. I select it in the keywords window, then click the *Add New Keyword as Child* icon at the bottom.
+
+[screenshot: keyword window and show icon ]
+
+To remove a keyword, select it and click the minus sign.
+
+To create additional keywords, click the *Add New Keyword as Sibling* icon. This new keyword then appears at the same level in the hierarchy.
+
+[screenshot: Show finished hierarchy, with Marriage, Employment, Leisure ]
+
+From this window, you can also apply those keywords to other documents. First, select those documents in the Binder (hold down the cmd key as you click). Then select the keyword in the Keyword window and click the ellipsis in the bottom right-hand corner and choose *Apply Keywords to Selected Documents*.
+
+[screenshot: Apply Keywords to Selected Documents ]
+
+===== Searching with Keywords 
+
+If you want to quickly find other documents with the same keyword, select the keyword in the list (press kbd:[shift + cmd + k] to display the Project Keywords), then click the tiny magnifying glass in the bottom right-hand corner. You’ll now see a Search Results pane instead of your Binder. To remove this pane, click the *x* in the top left-hand corner.
+
+[screenshot: keyword search results pane + highlight x sign ]
+
+This feature is incredibly powerful once your thesis grows to monster proportions. You’ll never remember where you mentioned specific people, theories, or concepts. With keywords, you can flag all those instances and quickly find them again. For example, if you decided to remove a specific case study, you could find all mentions through a keyword search and then edit those documents. That would be so much faster than having to read through the entire thesis. 
+
+As with Status, you can also apply labels and keywords to anything in your Research Folder. Labels might be useful for flagging areas such as theory, methodology, or discussion. Keywords could help with simple coding, for example applying themes to interviews.
+
+You can view your keyword blobs on the Corkboard, through *View > Corkboard Options > Show Keyword Colors* and also on the Outliner through *View > Outliner Options*. This is less helpful, I think, than the label blobs. You could easily amass dozens of keywords and you’re unlikely to remember their corresponding colours. I think labels are better for visual cues and keywords are better for searching and organizing.
+
+It’s also possible to create your own Custom Metadata. First, though, I’ll show you the search features in Scrivener, as that’ll help you understand the advantages.
