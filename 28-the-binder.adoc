@@ -1,0 +1,21 @@
+=== The Binder
+
+If you’ve got lots of documents in your Binder, it can help to add icons and dividers. Icons are useful for flagging areas that need attention or demarcating different parts of your project.
+
+[screenshot: Binder icons ]
+
+To add an icon, _ctrl-click_ on the Document and choose *Change Icon*. You can select from the list or upload your own. Here are the icons I use:
+
+	* Warning sign = disaster area
+	* Pile of poo = Shitty First Draft
+	* Test tube = experimental 
+	* Green flag = completely finished
+	* Star = next priority
+
+ You can even add your own images by clicking *Manage Custom Icons* in the icons menu, but that sounds like a thesis-displacement activity to me.
+
+You can also create *Binder Separators*. For instance, to make a document stand out more, you can ctrl-click and choose *Show as Binder Separator*. The document will now be more conspicuous with grey lines above and below. You can also turn folders into binder separators.
+
+[screenshot: Binder separators ]
+
+These visual cues are helpful as your project grows. With icons and dividers, you can get a quick sense of documents without having to open them.

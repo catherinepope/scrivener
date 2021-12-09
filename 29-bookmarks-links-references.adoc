@@ -1,0 +1,68 @@
+=== Bookmarks, Links, and References
+
+So far, we’ve moved around the Binder in a linear way. This is fine while your Project is small. Once your thesis grows, you’ll need to jump around and make connections between Documents and resources.
+
+==== Adding Links
+
+We’re all now used to hyperlinks as a convenient way of hopping around lengthy online documents. Although they don’t make any sense for a printed document, they can be used during the writing and editing stage for navigating between different areas of your Draft. They’ll also work perfectly as hyperlinks if you export your project as a PDF or Word file.
+
+To add a link in Scrivener, select the text to be linked, then _ctrl-click_ and choose *Link to Document*. Then navigate through the Draft to locate your target. Scrivener also attempts to find a document with a title matching your selected text.
+
+[screenshot: Link to Document ]
+
+Now your text is underlined to denote a link. When you click on it, the linked document pops up in split screen view.
+
+It doesn’t matter how much you move your documents around, the hyperlinks will always point to the right place. 
+
+To edit or remove a link, _ctrl-click_ it.
+
+Cleverly, you can also use this feature to link to a document you haven’t yet created. Say you’re typing and realise you ought to have included an appendix — select the word _Appendix_, _ctrl-click_, then Link to Document > New Link. 
+
+[screenshot: show Appendix and menu ]
+
+This creates the hyperlink and the new document is opened in a window, ready for you to add some content.
+
+As we’ll see in Chapter #XXX#, you can automatically remove all links at the Compilation stage. This makes sense if you’re exporting a print file. Then you’d want to include a web address, page number, or section title instead.
+
+==== Adding Bookmarks 
+
+You can also create links to help you move around outside of the documents in your Draft. These links are called *Bookmarks*. For instance, there might be material in the Research Folder you need to refer to frequently when working on a specific document. You can add them as *Document Bookmarks*.
+
+To create a Document Bookmark, click on the Bookmarks, Links, and References tab of the Inspector. The icon resembles a ribbon. Here you can drag in other documents from the Binder or external files to create bookmarks.
+
+[screenshot: Inspector + bookmarks tab ]
+
+In this example, I’ve dragged another document from my Binder into the Document Bookmarks pane. You can see there’s a link and also the document’s contents are below. 
+
+[screenshot: Document Bookmark + popup menu to view in other editor]
+
+If you want to see this document in more detail, _ctrl-click_ it and choose *Open in Other Editor*. Then you’ll see it alongside your main Editor.
+
+[screenshot: split screen view + show reciprocal bookmarks ]
+
+If you select the Other Editor by clicking the Header Bar (remember, it turns blue), you’ll see that Scrivener has created a reciprocal Bookmark. These two documents are now in a relationship.
+
+This feature is helpful when you’re working on multiple documents that are far apart in the Binder. For example, you might want to compare the two or create signposts between them. You could just find them in the Binder, but this can save you time. It’s similar to the Related Items feature in Zotero.
+
+==== Adding Links to External Files
+
+To link external files, you drag them into your Document Bookmarks to create a reference. This just creates a link — the file itself isn’t copied to your Scrivener project. This is useful for:
+
+	* Style guides or any other information you need to refer to, but isn’t directly part of what you’re writing. 
+	* Large files, so they don’t bloat your Scrivener project.
+	* Files you’ll be updating outside of Scrivener. Any changes are then reflected automatically without you having to reimport anything.
+	* Files that Scrivener can’t open, such as spreadsheets or PowerPoint presentations. When you click the link, the file is opened in the relevant external application, e.g. Excel.
+
+[screenshot: External file ]
+
+==== Adding Project Bookmarks
+
+If you want a bookmark that’s available throughout your entire project, you can create a *Project Bookmark* instead. Click the red ribbon on the toolbar, then drag in documents or files. Now you can just click the red ribbon again whenever you want to refer to them.
+
+[screenshot: Project Bookmarks ]
+
+Or you can view Project Bookmarks in the Inspector by choosing them from the drop-down list.
+
+[screenshot: Project Bookmarks in Inspector ]
+
+This feature is useful for style guides, coding manuals, or mind maps. 

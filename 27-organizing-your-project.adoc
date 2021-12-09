@@ -1,0 +1,11 @@
+== Organizing Your Project
+
+Once you’ve got stuck into your project and have generated some words, you can start organizing everything better. As you gather momentum, your thesis becomes unwieldy and hard to navigate. Fortunately, Scrivener offers many ways to create connections between different parts of your project, including reference material.
+
+In this chapter, you’ll take a break from writing so you can get acquainted with some of Scrivener’s organizational capabilities. With links, you can hop between documents in your Draft and also create hyperlinks for digital files, such as PDFs. And you can create Bookmarks to quickly access external files, especially those that can’t be opened in Scrivener. 
+
+Then you’ll get an introduction to metadata. Metadata, for those who aren’t familiar with it, is essentially data about your document. It’s anything associated with the document that doesn’t actually appear in the text. Scrivener includes a default set of fields — Label and Status — but you can also create your own with Custom Metadata. 
+
+Once you’re using metadata in your project, you’ll be able to create more sophisticated searches, for instance, locating all the documents on a particular topic, or identifying anything with a specific status. You can also create groups of documents — Collections — from your search results. With Collections, you can gather together and quickly locate documents based on search criteria. Perhaps you want a Collection of the drafts to send to your supervisor, or everything that still needs citations. In metadata, searching, and Collections, you have some powerful tools.
+
+First, let’s liven up the Binder.

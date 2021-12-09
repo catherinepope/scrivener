@@ -1,0 +1,78 @@
+:experimental:
+
+=== Adding Metadata
+
+As I mentioned earlier, metadata is data about your document. You’ve already used metadata for flagging the Status in the bottom right-hand corner of Scrivener. Now you’ll learn about two more types of metadata: labels and keywords. 
+
+==== Labels
+
+If you have a lot of documents, it’s useful to group them together in different ways. In other tools, such as Zotero and Evernote, you use tags to create these links. In Scrivener, we have _labels_.
+
+We’ve already used some labels when setting the _status_ for each document, such as To Do, First Draft, and so on. You can create other types of label, too. 
+
+At the bottom of the Inspector, you’ll see _No Label_ next to the Status of your document. If you click on it, you’ll get the option to apply a coloured label. You can either use one of the preset colours, or create your own. 
+
+[screenshot: Label — show Edit ]
+
+Click *Edit* at the bottom of the Label list and you’ll get a pop-up window. You can then change the names of each colour by clicking on them and change the colour, too. With the plus and minus icons, you can add or remove labels.
+
+[screenshot: Labels window ]
+
+You can use these labels in any way you like. Perhaps you could assign a difficulty level to a document or an estimate for how long you think it might take to write. It could also be useful for labelling different parts of your project, e.g. methodology, discussion, theory. There’s no need to use this feature at all, if you don’t want to.
+
+I use labels to flag my confidence level with completed documents:
+
+	* Green = this is OK.
+	* Amber =  it would probably benefit from a few tweaks.
+	* Red = I still have some concerns.
+
+Like Status, you can also use Labels within the Research Folder.
+
+===== Displaying Labels
+
+Once you’re using labels, you can choose to display them in various places. On the top menu, click *View > Use Label Color In*. If you select Binder, you now get a coloured blob next to that document in the Binder. For Corkboard, you’ll get a coloured line on your index card for that document.
+
+[screenshot: label in Binder; label in Corkboard ]
+
+Labels are usually displayed by default in the Outliner. If they’re not visible, you can click the arrow and check the box for Labels.
+
+[screenshot: label in Outliner  ]
+
+Like icons, labels provide helpful visual cues for navigating your project.
+
+===== Arranging by Label
+
+You can also use labels to _arrange_ or sort your index cards in the Corkboard. If you click the *Arrange by Label* icon at the bottom of the Corkboard, your cards are arranged on different lines, according to the label colour. You can even change a card’s label by clicking and dragging it to another line.
+
+[screenshot: Arrange by Label — make sure icon is visible — magnify it, too? ]
+
+This feature is useful if you want to sort your documents by theme or topic. Perhaps you have a folder of separate documents in which you’ve written about specific journal articles. Now you want to organize these documents to assemble your literature review. Here’s how it might work.
+
+	* First create your Labels in Project Settings (*Project > Project Settings > Label List*).
+
+[screenshot: Label List in Project Settings ]
+
+	* Now open your group of documents in Corkboard View (remember, they all need to be subdocuments of the same document to use a Group Mode, such as the Corkboard or Outliner.
+
+[screenshot: Show Corkboard with folder selected ]
+
+	* Click the Arrange by Label icon at the bottom of the Corkboard.
+
+[screenshot: show Arrange by Label icon ]
+
+	* Then you’ll see the corresponding coloured lines in Arrange by Label mode. Hover over the lines to see the Label name.
+
+If you prefer, you can view the Label lines vertically in columns.
+
+[screenshot: show arrange vertically icon ]
+
+	* Now you can arrange your documents by dragging them to the appropriate coloured line.
+
+This action doesn’t change the Binder structure. By moving the documents, you’re only assigning a label.
+
+To give yourself more space when using this feature, you can hide the Binder (kbd:[option + cmd + b]) and Inspector (kbd:[option + cmd + i]). Use the same keyboard shortcuts to show the Binder and Inspector again. Or click the Layouts icon and choose *Corkboard Only*.
+
+[screenshot: Show Layouts icon in toolbar ]
+
+You can apply only one label to each document. To add multiple terms, you’ll need keywords.
+
