@@ -1,0 +1,70 @@
+=== Managing Versions with Snapshots
+
+I mentioned earlier that word targets were my second favorite feature in Scrivener. Now it’s time to unveil my absolute favorite: Snapshots. 
+
+Writing a thesis involves seemingly endless revisions. Sometimes it’s hard to know what to cut and we can end up regretting an especially brutal pruning session. Even if we attempt some form of version control, then we’ve created lots of different documents, often with erratic naming conventions.
+
+[screenshot: erratic naming conventions ]
+
+In Scrivener, you can save different versions of each document and keep them all in one place. They’re called *Snapshots*. If you decide last week’s version of your introduction was better, you can simply roll back to that earlier version, or Snapshot.
+Taking Snapshots
+
+To take a Snapshot, make sure you have the document open in the Editor, then in the top menu, click *Documents > Snapshots > Take Snapshot*. You’ll hear a pleasing sound like a camera shutter. The keyboard shortcut is cmd + 5. 
+
+Click the icon for the Snapshots panel in the Inspector (it resembles a camera), and you’ll see your snapshot listed.
+
+[screenshot: Snapshots tab with Snapshots ]
+
+The time and date of the snapshot is logged. You can give it a title here. You might, for example, take a snapshot before implementing edits suggested by your supervisor. They’re not always right.
+
+If you instead use the keyboard shortcut kbd:[ctrl + cmd + 5], it’ll prompt you to add a title for your Snapshot.
+
+You can take Snapshots of multiple documents by selecting them in the Binder (holding down kbd:[cmd] as you click) and clicking *Documents > Snapshots > Take Snapshots of Selected Documents* on the Menu Bar.
+
+You can quickly see whether your document has a Snapshot attached to it. There will be a dot next to the camera icon in the Inspector and also the document icon in the Binder has a turned-down corner.
+
+[screenshot: Show dot and dog-eared corner ]
+
+Rolling Back to Earlier Snapshots
+
+I really struggled with the word count in my thesis (it was around 20,000 too many), so Snapshots helped me experiment with removing quotes and peripheral arguments. Sometimes the impact was too great in later chapters, so I was able to just roll back to the original version. To do this, select the relevant Snapshot in the Inspector  and click *Roll Back*.
+
+[screenshot: Roll Back; plus and minus ]
+
+Scrivener prompts you to take another Snapshot before Rolling Back — otherwise, you’ll lose the most recent changes.
+
+Just above *Roll Back*, you’ll see plus and minus signs. You can also use these controls to add or delete Snapshots.
+
+Snapshots also save annotations, comments, and footnotes, so this is a very powerful feature. It’s always worth taking a Snapshot before deleting bits of your document, as you never know when they’ll come in handy for journal articles, conference papers, or blog posts.
+
+==== Comparing Snapshots
+
+You can compare Snapshots with your current document by selecting a Snapshot in the list and then clicking Compare. You’ll then see the differences in the pane. If you prefer, you can ctrl-click and view the Snapshot in a Copyholder below your document.
+
+[screenshot: Compare; View in copyholder ]
+
+A Copyholder is a smaller window in which you can view documents. We’ll explore this feature later on in the chapter.
+
+Alternatively, you can view the Snapshot in the Editor by clicking and dragging it onto the Document Header. This just shows the text, though. To view the changes, too, hold down the Option key as you drag.
+
+[screenshot: Compare in Editor]
+
+==== Using the Snapshots Manager
+
+If you have a lot of Snapshots, it might be helpful to view them all in one place. In the Menu Bar, click *Documents > Snapshots > Show Snapshots Manager*. Now you’ll see a compete list of Snapshots, from where you can Compare, Roll Back, or Delete.
+
+[screenshot: Snapshots Manager ]
+
+By clicking the ellipsis at the bottom of the Snapshots Manager, you can decide on the level of detail — do you want to see the changes by word, clause, or paragraph?
+
+With the arrows, you can jump between the changes. This is similar to the track changes feature in Word, where you can navigate to the next change in the Review panel.
+
+The ellipsis on the left-hand side of the Snapshots Manager offers some additional options. Here you can find the selected document in the Binder (Reveal in Binder), delete the selected Snapshot, or export the selected Snapshot as an RTF file.
+
+Hopefully, you can now see why I get so excited about this feature. You just need to remember to take a Snapshot every time you make big changes. You can make this easier for yourself in the Scrivener preferences. Go to *Scrivener > Preferences* (or kbd:[cmd + ,]) and click *Saving* in the left-hand list. Check the box that says *Take snapshots of changed text documents on manual save*.
+
+[screenshot: Scrivener Preferences — take snapshots of changed text … ]
+
+With this box checked, each time you press kbd:[cmd + s], Scrivener takes a Snapshot of every document you’ve edited. You still need to remember to save, but only once.
+
+WARNING: If you permanently delete a document, you’ll also lose the Snapshots. Before deleting documents, it’s a good idea to take a Project Backup, under *File > Back Up > Back Up Now*.

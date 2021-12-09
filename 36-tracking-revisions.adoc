@@ -1,0 +1,19 @@
+:experimental:
+
+=== Tracking Revisions
+
+If you don’t want to create different versions of your documents, you could instead *Track Revisions*. This is similar to track changes in Word, but not quite as sophisticated. You use different colours to flag the revision stages. Let’s see how it works. 
+
+With a document open in the Editor, click *Format > Revision Mode* on the Menu Bar, then choose the stage. In this case, First Revision. Now, everything you type is in red. If you want, you can then change to Second Revision, which turns the updated text blue. When you’ve finished, go to *Format > Revision Mode > None*. You can also choose to remove all those colours here.
+
+[screenshot: Revision Mode menu ]
+
+This feature might be useful for experimenting with different versions of the same paragraph. It’s quite limited, though, and you can’t rename the Revision stages. Unlike Word, you can’t automatically add comments to your revisions, either. You could do so with a standard comment, though, by clicking the paperclip on the toolbar and *Add Comment* (or the keyboard shortcut of kbd:[shift + cmd + 8]).
+
+==== Searching for Revisions
+
+You can search by revision colour with the Project Search feature. Click the magnifying glass above the Binder and choose *Find by Formatting*. Under _Find_, select _Revision Color_. Then you can add additional criteria, such as search terms and scope [SIGNPOST searching]. Finally, choose the revision stage. There’s no need to add anything to _Containing text_ if you just want to find everything marked as _First Revision_.
+
+[screenshot: Find by Formatting — Revision ]
+
+Although the Revision feature is limited, it’s useful for flagging and finding paragraphs that need more attention. For example, you could create a Search Collection [SIGNPOST] that automatically finds all the documents containing text that’s still at the _First revision_ stage. Then you can make yourself a cup of coffee and start tackling them.
