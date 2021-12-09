@@ -1,0 +1,93 @@
+=== Custom Metadata
+
+If you’re a bit geeky, you might relish the prospect of creating your own custom metadata; if not, you’re very welcome to skip this section [SIGNPOST]. With custom metadata you can create your own field to which you can then add a _value_ in your documents. By default, you have the _label_ and _status_ metadata — now you can create your own to hold other types of information. This allows you to perform even more sophisticated searches.
+
+For example, in my thesis I spend quite a lot of time looking at ways in which an author’s novels were reviewed by the press. These reviewers pop up throughout my chapters, so it’s helpful if I can find a quick way of identifying all of those instances. I could assign a keyword, but creating custom metadata helps me to apply this method consistently across my project.
+
+The information I want to track is:
+
+	* Reviewer Name
+	* Publication in which review appears
+	* Novel reviewed
+
+Here’s what it looks like in the Inspector:
+
+[screenshot: Custom Metadata pane with George Moore ]
+
+==== Creating Custom Metadata
+
+To create Custom Metadata, click the tag icon at the top of the Inspector and then click the arrow to the left of Custom Metadata and then *Set Up Custom Metadata*.
+
+This takes you to Project Settings, where you’ve been a few times before.  This is the place where you store preferences, such as labels and statuses.
+
+[screenshot: Show Custom Metadata]
+
+Click the plus sign in the top right-hand corner of the Project Settings window.
+
+Add a title for the first piece of metadata. I’m going to add ‘Reviewer’.  You can choose a type here, too. By default, this is set to Text. You could also choose Checkbox, List, or Date. We’ll keep this first example simple by using Text.
+
+There are also some formatting options which allow you to change the colour and alignment. We’ll focus on the functionality for now.
+
+Press the plus sign again to add more Metadata titles.
+
+Now my Custom Metadata shows these three new fields:
+
+[screenshot: Custom Metadata I just created with selected box for typing — before and after]
+
+The power of Custom Metadata is in searching. If I now do a Project Search [SIGNPOST], you’ll see those new fields now appear in the list of what I can search. I can now find all the documents that reference George Moore as the reviewer.
+
+[screenshot: Project Search with Custom metadata ]
+
+==== Other Types of Custom Metadata
+
+Titles are the most flexible type of custom metadata. There are three other types you can use, too.
+
+===== Date
+
+By adding a date field, you’ll get the option to pick and add a date in the Inspector.  This could be useful if you’re writing about events or you want to log the date of interviews with participants. 
+
+You could also use this field to record when you submitted a draft to your supervisor, or to set yourself a deadline for that document. At the top of the Custom Metadata pane, you’ll see the _created_ and _modified_ dates are automatically logged. Now you can also add your own dates.
+
+Scrivener’s natural language detection will magically convert your inputted dates into the correct format. For instance, if you type _Monday_ in the box, it’ll be converted into next Monday’s date. That’ll also work with _tomorrow_, _next Tuesday_, and so on.
+
+Then you can search by date with Project Search. Now, though, you’ll need to use the proper data format, but without the slashes. 
+
+[screenshot: Searching by custom date ]
+
+===== List
+
+A list is appropriate if you have a controlled list of options from which you want to choose — i.e. you won’t want to add anything different. You could use this with demographic data, such as age ranges for interview participants.
+
+[screenshot: Age ranges in Custom Metadata panel ]
+
+Then with Project Search I can find documents containing that age range.
+
+[screenshot: Project Search — List results ]
+
+===== Checkbox
+
+Checkboxes are the simplest type of custom metadata. They’re either on or off, true or false. You could either include just one checkbox, or a series — like a todo list. Perhaps you could use them as a more granular version of Status and include elements such as:
+
+	* Check quotes
+	* Add captions
+	* Incorporate feedback
+
+[screenshot: Show checkbox ]
+
+Or it could just be a simple way of recording that the document has been checked by your supervisor. 
+
+To find those checked documents, select your Checkbox name in Project Search, then type ’true’ in the box. If you wanted to find anything that’s not checked — e.g. documents you haven’t yet sent to your supervisor — search for ‘false’.
+
+[screenshot: Project Search for checkboxes ] [NEED TO DOUBLE-CHECK THIS WORKS!]
+
+Custom Metadata appears _throughout_ your project. It needs to be relevant for all your documents — you can’t have different Custom Metadata in different documents. 
+
+==== Viewing Custom Metadata
+
+Custom metadata can also be viewed in the Outliner. Earlier we looked at adding fields to the Outliner. You can add your custom metadata as fields, too. You can see below that my Reviewer, Journal, and Novel fields appear on the list.
+
+[screenshot: Custom Metadata in the Outliner ]
+
+From here, you can sort by these custom fields and also update them. If you want to update multiple documents, it would be much quicker to do it here, rather than open each document individually.
+
+Depending on the nature of your research, custom metadata provides a powerful way of organizing your content consistently, effectively turning into a database. It also helps you repurpose your work. If I wanted to write a journal article about George Moore’s reviews in the Pall Mall Gazette, I could easily find all the appropriate documents to form the basis for my new piece of writing. We’ll look at a specific example in the next section on Creating Collections. [SIGNPOST]

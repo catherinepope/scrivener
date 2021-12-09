@@ -1,0 +1,49 @@
+:experimental:
+
+=== Creating Collections
+
+With Collections, you can quickly bring together related documents from different parts of your Draft. You choose the relationship, whether that's the status, label, keywords, or your custom metadata. It’s similar to a search, but you create a permanent grouping that you can access again. It doesn’t change your Binder structure, though.
+
+There are two types of collection, _Standard Collection_ and _Search Collection_. 
+
+==== Creating a Standard Collection
+
+You create a Standard Collection by manually adding documents. This could be useful if you want to send specific documents to your supervisor. It's also good for experimenting with arranging your Draft in different sequences. 
+
+If you're in the document, in the Menu Bar, click *Documents > Add to Collection > New Collection*. A new Collection then appears at the top of the Binder area. Give it a meaningful name.
+
+[screenshot: Show new Collection in Binder ]
+
+Now you can drag additional documents from the Binder into your Collection. You can also drag them from the Corkboard or Outliner. Add multiple documents by holding down kbd:[cmd] as you click. 
+
+[screenshot: Remove item / delete Collection ]
+
+To remove a document from the Collection, select in in the list and click the minus sign. To delete the collection itself, click the minus sign to the right of the Collection.
+
+==== Creating a Search Collection
+
+A Search Collection is based on the Project Search we saw a moment ago. All the results of your search are added to a Collection and it's automatically updated every time another document matches those search criteria. For example, you might have a search collection that groups together all the documents with a status of To Do. Documents are then automatically removed from this collection if you change their status to First Draft.
+
+You could also create a status called For Supervisor and automatically bundle together everything you want to send them. Alternatively, you could create a checkbox with Custom Metadata [SIGNPOST], search for it, then automatically add those documents to a Collection.
+
+To create a Search Collection, first run a Project Search. Here, I'm searching for any documents with a status of To Do. I've restricted it to Status, specified that it should match my exact phrase, and limited the scope to my Draft, excluding the Research folder.
+
+[screenshot: Search example ]
+
+Once you’ve run the search, click the arrow next to the magnifying glass above the Binder and choose *Save Search as Collection*. Give it a name (the default is your search term), then click *OK*. Your new collection appears in the list. 
+
+If I now change the status of one these documents to _In Progress_, it’ll disappear from the Collection (but not from the Binder). 
+
+If you no longer want this Search Collection to be updated automatically, you can convert it to a Standard Collection. Make sure the Collection is selected in the Binder. Then in the Menu Bar, click *Navigate > Collections >  Convert to Standard Collection*. To hide Collections, go to *View > Hide Collections*.
+
+Collections take a while to get used to, but I think you'll find them helpful with larger projects. I mainly use them to focus on just the documents that still need work. Otherwise, I’m tempted to instead tinker with the other documents that are already finished. Once I complete a document and change its status to First Draft, it automatically disappears from my To-Do Search Collection. It’s satisfying to see this Collection gradually dwindle away.
+
+=== Summary
+
+You’ve learned some sophisticated Scrivener techniques in this chapter. Once you’re comfortable with links and bookmarks, you’ll accelerate your writing. Often, we don’t realise how much time we spend searching for bits of writing and research material. As your project progresses, you’ll find yourself relying increasing on the search feature, too. Although the search options are complex, you’ll start to see what’s useful for you. 
+
+Metadata can be hard to grasp, especially if you’re completely new to Scrivener. As ever, start simple and gradually get more sophisticated. Even using just labels will give you a productivity boost and make you feel more in control of your project. Keywords might be overkill in the early days of your thesis, but they’re an absolute boon when you’re trying to make sense of a complete baggy first draft. And Collections will help you focus on specific areas of your thesis.
+
+You don’t need to use all (or indeed any) of these features. And there’s no need to implement them right away. Now you’re aware of them, though, you’re more likely to identify potential use cases for your project. If you’re worried about making a confusing mess, create a dummy Scrivener project for experimentation purposes.
+
+In the next chapter, you’ll learn some marvelous editing techniques. And I’ll reveal my favorite Scrivener feature.

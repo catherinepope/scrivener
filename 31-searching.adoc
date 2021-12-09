@@ -1,0 +1,64 @@
+=== Searching
+
+It’s easy to find what you need when your Scrivener project is relatively small. Once you’ve got more than a dozen documents, the search feature will help you access all areas more quickly. There are two main ways to search in Scrivener.
+
+First, you can use the search box on the Toolbar. You might not have noticed it before, but this box performs many jobs. By default, it shows the document title, then the word count if you hover over it. Click on the box and it becomes a search field. You can enter a few words of the document itself or the title. You’ll then see a list of matches. 
+
+[screenshot: search box and results ]
+
+For a more sophisticated search experience, click the magnifying glass on the left of the toolbar. Now you can choose your _scope_ — whether you want to search the whole Project or just the current Document. 
+
+[screenshot: magnifying glass and options ]
+
+==== Searching by Formatting
+
+There’s also an option to search by formatting. This could be useful if you want to check you’ve added a citation to all your block quotes. Or maybe you’ve used highlighting to flag some dodgy areas of your writing.
+
+[screenshot: show Formatting Finder options ]
+
+Here’s how to find all those block quotes:
+
+	. Click the magnifying glass and choose *Find by Formatting*.
+	. In the popup window, set *Find* to _Style_.
+	. Set *Search in* to _All Documents_.
+	. Set *Style Name* to _Block Quote_.
+
+This is another good reason to create and apply styles consistently. [SIGNPOST WORKING WITH STYLES SECTION].
+
+This search feature works for built-in Scrivener styles, and also any you create yourself.
+
+[screenshot: Formatting Finder ]
+
+===== Text Searching
+
+Now let’s take a look at a text-based Project Search. Click the magnifying glass on the Toolbar and choose *Search in Project*.  A small search box appears above the Binder.
+
+[screenshot: project search box ]
+
+You could just type your search term in the box, but you’ll probably want to add some additional criteria. Click the tiny magnifying glass on the left to see additional options. 
+
+[screenshot: search options ]
+
+Yes, there are lots! Fortunately, you can ignore most of them for now. The others will make more sense once you’re more confident with Scrivener.
+
+Under the first section, _Search In_, you decide the scope. Do you want to look through just the text itself, or also the metadata, such as keywords, notes, and synopses? If you want to include everything, select _All_. Otherwise, click areas you want to include so there’s a tick beside them.
+
+With Operator, you’re choosing whether results need to match all the search terms, some of the terms, or the exact phrase. Selecting _Whole Word_ ensures Scrivener won’t find parts of words, e.g. returning _conscience_ when you search for _science_. _RegEx_ is an advanced technique for finding word patterns. You definitely want to ignore that for now. You can have only one Operator.
+
+Finally, you can use _Options_ to focus on certain areas of the Binder, for example exclude anything in Trash or Templates. You can also decide here whether your search term should be case sensitive.
+
+_Included_ Documents are those you want to include at the Compile stage. _Excluded_ Documents appear in your Project, but not in your exported version. These Excluded Documents might include notes, rough drafts, or plans.
+
+Invert Results — no, that’s not turning everything upside down. It’s a useful way of finding all the documents where you _don’t_ mention a word or phrase. 
+
+You’ll have noticed there are lots more possibilities here. I’ll leave you to play with those at your leisure. The more you use Scrivener, the more sense everything will make. As your thesis grows, these search features will become invaluable. It’s impossible to remember where you’ve mentioned a term.
+
+==== Searching by Metadata
+
+As you’ll have seen above, you can restrict the scope of your Project Search to a specific piece of metadata, such as keywords, labels, or status. Choose which metadata you want to find under _Search In_, then type your term in the box. Scrivener starts filtering as you type. It won’t prompt you with the names, so you’ll need to know what you’re searching for.
+
+[screenshot: Searching by Metadata ]
+
+To search by Keywords, it’s better to use the Project Keywords window. To access this window, click the ellipsis next to Keywords in the metadata tab of the Inspector.
+
+[screenshot: show Keywords ellipsis in metadata tab of Inspector ]
