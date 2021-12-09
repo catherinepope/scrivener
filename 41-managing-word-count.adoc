@@ -1,0 +1,31 @@
+A common problem during the editing stage is reducing your word count. It’s exciting seeing that progress bar advance in the early stages. Now, though, you need to get your thesis into shape. In Scrivener, you can also track _negative_ word counts, i.e. how many words you’ve deleted.
+
+Go to *Project > Show Project Targets* to give this a try. We looked at this window earlier to set your word target. Here you can specify an overrun, too.
+
+[screenshot: Project Targets + options | Show overrun ]
+
+Click on Options, then check the box for *Show overrun* and decide on the number of words. Some universities are very strict on word count, while others will allow you to overrun by up to 10%. I don’t think examiners ever secretly crave a longer thesis, so try to stick to the limit.
+
+When you click *OK*, you’ll see the percentage of excess words flagged in red.
+
+Now your challenge is to eradicate the red.
+
+Click on Options again and then Session Target. Check the box to Allow negatives.
+
+[screenshot: Session Target — Allow negatives ]
+
+In the main Project Targets window you can add a negative word count for your Session Target. For example, perhaps today you want to delete 100 words. Add -100 here.
+
+[screenshot: Session Target + negative word count ]
+
+If you’ve requested notifications, Scrivener lets you know when you’ve hit your target.
+
+You can also track the overrun on individual documents. Click the progress bar in the document Footer and set an allowance in the box.
+
+[screenshot: Overrun target ]
+
+To get an overview of how you’re doing, use the Outliner to view your Draft. Make sure you’ve enabled the Progress bar by clicking the tiny arrow and checking the option. Then you can quickly see all the documents that are still too long.
+
+[screenshot: Outliner with documents that are too long + show how to add Progress bar ]
+
+=== Summary

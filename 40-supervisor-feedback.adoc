@@ -1,0 +1,12 @@
+It’s unlikely you can send your supervisor a Scrivener Project. And it’s not especially helpful, anyway — you don’t want them mucking about with your entire project. The best way to share your work is to export a Word document for them to comment on and return to you. If you just want top-level feedback — e.g. whether your argument is sound — you could send them a PDF instead. That way, your supervisor won’t be tempted to start correcting tiny details. I’ll explain how to export both Word documents and PDFs in the next chapter [SIGNPOST].
+
+You can import a Word document back into Scrivener, along with comments. However, Scrivener won’t support track changes. That might sound like a significant limitation, but this is actually beneficial. Unless you’re at the very end of your PhD, you don’t want your supervisor to copyedit your writing. Instead, you want their input on the structure and argument. Consequently, it’s better if you ask them to only add comments rather than make any actual changes. Once they start tinkering with your split infinitives, they’re no longer paying attention to the bigger issues.
+
+When your supervisor sends you the Word document with comments:
+
+	. Import the document into Scrivener (it’ll end up in the Research folder) with *File > Import > Files*, or drag it into the Research folder. You could create a separate folder for this purpose.
+	. If it’s a long document, you might want to divide it using the Import and Split technique we covered in the Getting Started chapter. [SIGNPOST]
+	. Display this document alongside your original version using split screen.
+	. Take a snapshot of your original version (call it something like “Before supervisor’s comments”). [SIGNPOST]
+	. You can then go through and make any changes. This gives you an opportunity to consider whether you want to implement the recommended change. Supervisors aren’t always right.
+	. You could also use Revision Mode to flag what you’ve changed. [SIGNPOST]

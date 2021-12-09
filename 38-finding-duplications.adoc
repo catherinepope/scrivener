@@ -1,0 +1,11 @@
+=== Finding Duplications
+
+One of the problems with big writing projects is that we repeat ourselves. It’s easy to forget we already explained a concept or used a quote several chapters ago. Also, we have a tendency to copy and paste content when we move it, rather than cutting and pasting. Buried in the Bookmarks tab of the Inspector, you’ll find *Matching Text*. You need to click the tiny arrows to the right of Document Bookmarks. 
+
+[screenshot: Matching Text under Bookmarks tab of Inspector ]
+
+Matching Text hunts through your Scrivener project and finds duplicate content.
+
+In this example, you’ll see a quote in my Editor. In the Inspector, the Matching Text feature has found another document containing the same text and highlighted it. There’s a little pie chart to show how closely the two documents match. If you _ctrl-click_ the match, you can choose to open it in the Quick Reference Window or the Editor.
+
+[screenshot: Example of Matching Text ]

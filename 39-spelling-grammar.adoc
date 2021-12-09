@@ -1,0 +1,75 @@
+:experimental:
+
+=== Checking Spelling and Grammar
+
+Like Word, Scrivener checks your spelling and grammar as you type. You can switch this on and off on the Menu Bar through *Edit > Spelling and Grammar*. Like Word, it’s not infallible and Scrivener also won’t recognise specialist vocabulary.
+
+[screenshot: Show Spelling and Grammar menu ]
+
+==== Using Autocomplete
+
+If you find yourself repeatedly typing long words or sentences, you can create an Autocomplete list. For instance, I often have to type The Second Married Women’s Property Act of 1882, which is quite cumbersome and my fingers get in a tangle when I’m tired. If I select and _ctrl-click_ that phrase, I can choose to *Add Selection to Auto-Complete List*. Now when I start typing _The Sec…_. Scrivener prompts me to accept the auto-completion. 
+
+[screenshot: Add Selection to Auto-Complete List ]
+
+These auto-completions are associated with a specific Project, rather than Scrivener generally. So you can find them under *Project > Project Settings*. Go to *Autocomplete List* and you can add, edit, or remove terms. 
+
+[screenshot: Project Settings — Autocomplete List ]
+
+If this isn’t working for you, go to *Preferences > Corrections*, and make sure the _In script mode only_ box isn’t ticked. It took me a while to fathom that one, too.
+
+[screenshot: In script mode only box ]
+
+==== Checking Consistency with Linguistic Focus
+
+Under *Edit > Writing Tools*, you’ll find *Linguistic Focus*. This tool focuses on specific parts of speech in your document. This is useful if you wanted to find all the verbs to check the tense, or to identify all the pronouns and change them to they.
+
+[screenshot: Linguistic focus + show refresh arrow — show verbs and pronouns alongside each other]
+
+Leave the Linguistic Focus window open while you edit, then click the refresh arrow to get updated statistics.
+
+To check multiple documents with Linguistic Focus, select them in the Binder and go into Scrivenings mode [SIGNPOST] kbd:[cmd + 1]. Now they’ll appear as one continuous document in the Editor. Make sure you click inside the Editor, then press kbd:[ctrl + cmd + L]. If the Binder is still selected, rather than the Editor, Linguistic Focus is disabled.
+
+This feature isn’t available for Windows users, so please resist the temptation to taunt them.
+
+==== Viewing Writing Statistics
+
+Scrivener’s writing statistics can help you spot overused words. On the top menu, click *Project > Statistics*.
+
+[screenshot: Project Statistics — highlight word frequency ]
+
+At the bottom of the popup window, click *Word frequency*. Now you’ll get some illuminating numbers. In my example, I can see I’ve included “piggy’s” twice, even though I can’t remember writing it once.
+
+[screenshot: piggy’s! This is in How to Publish Your PhD + show sorting columns ]
+
+Click the headings (Word, Count, Frequency) to sort them. 
+
+You probably don’t want to know how often you’ve written the word is, and, or the. Click on *Options* at the top of the window, then *Set List of Words to Ignore*.
+
+[screenshot: Options + Set List of Words to Ignore ]
+
+You’ll have noticed there’s lots more information available through Project Statistics, including average paragraph and sentence length. You can even get an estimated reading time for your thesis.
+
+The Project Statistics tool just gives you _information_ — it won’t tell you _how_ to write shorter sentences.
+
+==== Checking Scrivener Projects with ProWritingAid
+
+Available as a web-based tool or a desktop app, ProWritingAid gives you detailed feedback on your writing and suggests how to fix problems. It’ll check areas including:
+
+	* Repetition, cliches, or overuse of words.
+	* Length of sentences.
+	* Readability.
+	* Consistency, including missing closing quotation marks.
+	* Plagiarism — the Premium Plus version includes 50 plagiarism reports that compare your writing with webpages and published works (it’s similar to TurnItIn). Or you can pay as you go: £10 for 10 checks.
+
+Currently, ProWritingAid costs £20 per month or £79 per year. If you’re feeling flush, you can buy a lifetime license for £399. 
+
+Unlike other tools, ProWritingAid allows you to open your Scrivener project within the tool, make changes, and save them. This is one of the advantages of Scrivener’s structure — your project is a collection of RTF files in folders, which makes it easy for other applications to access them.
+
+As you’ll see in this screenshot, your entire Scrivener structure is replicated in ProWritingAid. Then you’ll get feedback in the right-hand panel.
+
+[screenshot: ProWritingAid with Scrivener Project ]
+
+ This process is very slow for long documents such as a thesis. Your patience will be rewarded, though, as ProWritingAid finds many errors that are missed by the human eye. It’s still not infallible, but ProWritingAid saves you a lot of time.
+
+For more information on using https://www.prowritingaid.com[ProWritingAid, visit the website].

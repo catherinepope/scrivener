@@ -1,0 +1,31 @@
+=== Viewing Multiple Documents
+
+If two Editors weren’t exciting enough, you can also add a couple more mini windows called Copyholders and a Quick Reference Window. Although this makes your Scrivener interface crowded, it’s helpful when you’re trying to get a sense of your whole thesis.
+
+==== Viewing Documents in Copyholders
+
+Copyholders are just for viewing documents you want to refer to while you’re writing or editing. They’re useful for seeing different parts of your thesis simultaneously. Maybe you want to see your Introduction, part of a chapter, and your Conclusion together to ensure continuity. You could do this with Scrivenings [SIGNPOST], but that would mean doing a lot of scrolling. With Copyholders, you can see all those documents alongside each other.
+
+_Ctrl-click_ the document you want to view, then choose *Open > in Copyholder*. The document then appears in a pane beside whichever Editor is selected. Alternatively, you can select the document in the Binder, hold down the Option key and drag it onto the Document Header. 
+
+[screenshot: Show document in Copyholder ]
+
+Although you can edit the text in the Copyholder, you can’t view the Inspector. If you do need more information, or a bit more space, click the little arrow in the top right-hand corner of the Copyholder. This opens the document in a free floating Quick Reference window, from where you can view all the Inspector information.
+
+To close the Copyholder, click the tiny *x* in the top right-hand corner.
+
+You can have a Copyholder open in both Editors at the same time. To change their position, click *View > Editor Layout > Copyholder position* on the Menu Bar. You can choose the place them to the left, right, top, or bottom of your Editor.
+
+[screenshot: Editor Layout — do I need this? ]
+
+==== Viewing Documents in the Quick Reference Window
+
+The Quick Reference Window is free floating, so you can position anywhere you like. Also, you can open multiple Quick Reference Windows. 
+
+You can open any document in the Quick Reference window by _ctrl-clicking_ it in the Binder, and choosing *Open > as Quick Reference*. Or you can click a document in the Binder and drag it onto the Quick Reference icon in the toolbar.
+
+[screenshot: Show Quick Reference icon on toolbar ]
+
+This means you could have five or more different documents open at once, which is great if you’re trying to get a sense of your whole project. You’ll need a big monitor, though.
+
+TIP: If you store your Scrivener project in Dropbox, make sure you close _all_ the windows when you finish your session. Otherwise, the files might not sync properly.
