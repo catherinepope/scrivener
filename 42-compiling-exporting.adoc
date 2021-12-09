@@ -1,0 +1,23 @@
+== Compiling and Exporting
+
+If Snapshots are my favorite feature in Scrivener, Compiling and Exporting is my least favorite. I understand the developers wanted to add lots of flexibility and functionality, but I think it’s unnecessarily complicated, especially for new users. I’m an old user, but I still feel a bit sweaty every time I need to get something out of Scrivener. Consequently, I’m only going to show you simple examples in this chapter. Once you thoroughly understand the basics, you’ll be able to attempt some more sophisticated versions.
+
+You can present your Project in different ways … 
+
+// give some examples
+
+
+It’s good to at least familiarize yourself with this process well before you actually need to use it. You don’t want to be fathoming it when you’re up against a deadline.
+
+Although you could use Scrivener to produce a submission-ready version of your thesis, I’d recommend outputting it as a Word document and making your final tweaks there.
+
+=== Tidying Your Project
+
+First, have a tidy up. Make sure any research material is in the Research Folder and that any odd documents have been deleted or safely parked in a separate folder...
+
+// explain why this is important.
+
+Make sure your documents have proper and consistent names.
+
+
+We’ll start simple with printing …

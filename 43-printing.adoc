@@ -1,0 +1,32 @@
+:experimental:
+
+// Maybe this should come earlier so the chapter can focus purely on Compiling and Exporting?
+
+Although Scrivener is very flexible, there’s nothing like printing a document and scribbling all over it. There are a number of print options:
+
+	* You can print your current document by pressing kbd:[cmd + p] — then you’ll see the usual print dialogue box for choosing the margins, printer, quality, and so on.
+
+	* To print multiple documents, select them in the Binder (hold down the kbd:[cmd] key as you click them, then press kbd:[cmd + p]. Scrivener prints multiple documents without page breaks, so print them separately if you need them to start on a new page.		
+	* You can even print the Corkboard with kbd:[cmd + p]. This means you can see your synopses as physical index cards. If it’s helpful, you could cut them out and rearrange them to experiment with different structures. It’s possible to buy special index cards that’ll go through the printer. Well, maybe your printer — mine isn’t very co-operative.
+
+	* And you can print the Outliner with kbd:[cmd + p]. A printout of your Outliner is useful as an audit of your project. You’ll see your word counts, statuses, and progress bars.
+
+You can control aspects of printing through *File > Page Setup*. Under the Page Attributes tab, you can choose the printer, paper size, orientation, and scale. Click the arrows next to Page Attributes and choose Scrivener to see many more options. 
+
+[screenshot: Page Setup > Scrivener ]
+
+On the first tab, you can set the margins. On subsequent margins, you can choose which elements are included in your printed document. For example, under _Text_, you can remove annotations and comments. Under _Index Cards_, you can add card numbers and even include cutting guides if you want to make them into physical cards.  
+
+[screenshot: Page Setup > Scrivener > Text & Index Cards alongside each other ]
+
+After you’ve set these options, Scrivener remembers them for any subsequent prints.
+
+You can also create a PDF, rather than a printed document. To print to PDF:
+
+	. Set your preferences under Page Setup > Scrivener.
+	. Press kbd:[cmd + p] in the document or view you want to print.
+	. Click PDF at the bottom of the dialogue box and choose *Save as PDF*.
+
+[screenshot: Print dialogue box ]
+
+To print your entire Draft and control aspects such as page breaks, you need to _compile_ the project. [SIGNPOST]

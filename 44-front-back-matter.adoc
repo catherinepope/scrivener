@@ -1,0 +1,71 @@
+:experimental:
+
+=== Adding Front and Back Matter
+
+If you’re planning to do some further tweaking in MS Word (or another application afterwards) then you’re all done; otherwise you need to do a bit more work in Scrivener before your thesis is suitable for submission. Your university’s guidelines will tell you what _front matter_ should be added, e.g. title page, acknowledgements, copyright declaration, etc. 
+
+You’ll probably also want to include _back matter_, such as a bibliography and maybe some appendices of data, too.
+
+You can produce this content in Scrivener by adding some extra documents in your Binder.
+
+If you don’t want this extra stuff cluttering up your Draft, you can instead put them in separate folders. In a moment, I’ll show you how to automatically include them in the right place when you compile and export your project. Keeping them separate also means you’re not accidentally printing pages unnecessarily or including this content in your word count. 
+
+These folders for front and back matter should be outside your Draft. Make sure the folders are nestling between your Draft and the Research folder. If they’ve been swallowed up by the Draft, select the folders and press kbd:[cmd + ctrl + <] to outdent them.
+
+[screenshot: Binder with front matter and back matter ]
+
+==== Creating a Title Page
+
+After wrestling with your thesis, creating a title page will feel delightfully simple. The information you include depends on your university’s requirements and your stage — is this a final submission, or just part of your thesis for an end of year review or upgrade?
+
+Scrivener includes some useful placeholders to automatically include key information:
+
+	* <$projectname> — the name of your Project
+	* <$author> — that’s your full name
+	* <$date> — the date on which you compiled the Project
+	* <$wc> — the word count
+
+Simply include those placeholders where you want the text to appear, and the information is automatically added when you compile your Project. You provide the information (e.g. your name and the project name) during the Compilation process.
+
+Placeholders aren’t especially helpful for information that appears only once. However, they’re useful for ensuring consistency in running headers and making sure you don’t misspell your own name. You can find them a full list of placeholders under *Help > Placeholders*. Some of the most common placeholders are accessible through the Insert menu.
+
+[screenshot: Show Insert Placeholders menu ]
+
+==== Creating a Table of Contents
+
+Every thesis needs a table of contents. It’ll help both you and your examiners navigate that enormous document. Here’s how to create one:
+
+	. In the Binder, select the documents to be included in your table of contents.
+	. Then on the Menu Bar click Edit > Copy Special > Copy documents as TOC. This copies all those titles and links to your clipboard.
+	. Next paste this content into your desired location. You might want to create a separate TOC document in your Front Matter folder. 
+
+[screenshot: Show table of contents ]
+
+You’ll see a list of your documents, with a *<$p>* placeholder where the page number should appear. The placeholders are replaced with actual page numbers when you compile your thesis and open it in another application, such as Word. Having said that, it doesn’t always work automatically. If you see question marks instead of page numbers in your exported document, press kbd:[cmd + p] to print it, then cancel your print. You should then see the page numbers. I’m not sure why this works, but it does.footnote:[Possibly because printing forces Word to see the text as individual pages, rather than a continuous stream.]
+
+[screenshot: Show Word document with question marks + then with page numbers ]
+
+==== Converting Footnotes to Endnotes
+
+While you’re writing in Scrivener, you can only create footnotes. However, it’s possible to automatically convert them to endnotes just by checking a box. We’ll do that in a moment at the Compile stage. First, though, you need to tell Scrivener where those endnotes should appear.
+
+Add a document for your endnotes (in the Back Matter folder, if you have one) and then add the following placeholder:
+
+*<$--ENDNOTES--> *
+
+Or on the Menu Bar, click *Insert > Endnote Marker*. Yes, that’s all you need to do. 
+
+==== Including a Bibliography
+
+As I mentioned earlier [SIGNPOST], you can’t automatically generate a bibliography in Scrivener. Here’s my workaround, using Zotero. It’ll work in a similar way for Mendeley or EndNote.
+
+	* In Zotero, put everything you’ve cited into a Collection.
+	* _Ctrl-click_ on the Collection and choose *Create Bibliography from Collection*.
+	* Choose Save as RTF.
+	* In Scrivener, _ctrl-click_ on your Back Matter folder, then *Add > Existing Files* and find the RTF file you just created from Zotero.
+
+[screenshot: Show exporting from Zotero ]
+
+Make sure this document has a meaningful title, such as Bibliography. This becomes the heading at the Compilation stage.
+
+All your bibliography items are paragraphs, so you can create your own style, depending on whether you want indents, and so on.
