@@ -51,7 +51,7 @@ While you’re writing in Scrivener, you can only create footnotes. However, it�
 
 Add a document for your endnotes (in the Back Matter folder, if you have one) and then add the following placeholder:
 
-*<$--ENDNOTES--> *
+<$--ENDNOTES-->
 
 Or on the Menu Bar, click *Insert > Endnote Marker*. Yes, that’s all you need to do. 
 
