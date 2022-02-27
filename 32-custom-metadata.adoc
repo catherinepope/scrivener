@@ -1,6 +1,6 @@
 === Custom Metadata
 
-If you’re a bit geeky, you might relish the prospect of creating your own custom metadata; if not, you’re very welcome to skip this section [SIGNPOST]. With custom metadata you can create your own field to which you can then add a _value_ in your documents. By default, you have the _label_ and _status_ metadata — now you can create your own to hold other types of information. This allows you to perform even more sophisticated searches.
+If you’re a bit geeky, you might relish the prospect of creating your own custom metadata; if not, you’re very welcome to skip this section [SIGNPOST]. With custom metadata you can create your own field to which you can then add a _value_ in your documents. By default, you have the _label_ and _status_ metadata — now you can create your own to hold other types of information. This allows you to perform even more sophisticated searches.
 
 For example, in my thesis I spend quite a lot of time looking at ways in which an author’s novels were reviewed by the press. These reviewers pop up throughout my chapters, so it’s helpful if I can find a quick way of identifying all of those instances. I could assign a keyword, but creating custom metadata helps me to apply this method consistently across my project.
 
@@ -84,10 +84,10 @@ Custom Metadata appears _throughout_ your project. It needs to be relevant for a
 
 ==== Viewing Custom Metadata
 
-Custom metadata can also be viewed in the Outliner. Earlier we looked at adding fields to the Outliner. You can add your custom metadata as fields, too. You can see below that my Reviewer, Journal, and Novel fields appear on the list.
+Custom metadata can also be viewed in the Outliner. Earlier we looked at adding fields to the Outliner. You can add your custom metadata as fields, too. You can see below that my Reviewer, Journal, and Novel fields appear on the list.
 
 [screenshot: Custom Metadata in the Outliner ]
 
 From here, you can sort by these custom fields and also update them. If you want to update multiple documents, it would be much quicker to do it here, rather than open each document individually.
 
-Depending on the nature of your research, custom metadata provides a powerful way of organizing your content consistently, effectively turning into a database. It also helps you repurpose your work. If I wanted to write a journal article about George Moore’s reviews in the Pall Mall Gazette, I could easily find all the appropriate documents to form the basis for my new piece of writing. We’ll look at a specific example in the next section on Creating Collections. [SIGNPOST]
+Depending on the nature of your research, custom metadata provides a powerful way of organizing your content consistently, effectively turning into a database. It also helps you repurpose your work. If I wanted to write a journal article about George Moore’s reviews in the _Pall Mall Gazette_, I could easily find all the appropriate documents to form the basis for my new piece of writing. We’ll look at a specific example in the next section on Creating Collections. [SIGNPOST]

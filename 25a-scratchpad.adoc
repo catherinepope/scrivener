@@ -1,0 +1,60 @@
+=== Using the Scratchpad
+
+The Scratchpad sounds like a cat toy, but actually it’s a much bigger notepad. Unlike notes, it’s not linked to a specific document — it floats on its own, outside the Scrivener window.
+
+[screenshot: floating Scratchpad ]
+
+Sometimes our writing is interrupted by random thoughts, and sometimes they’re even useful. You can quickly launch the Scratchpad, capture your idea, then get back to writing. The Scratchpad also keeps notes out of your Project and makes them available even when you’re not working in Scrivener.
+
+To use the Scratchpad, click *Window > Show Scratchpad*. The first time you do this, Scrivener will ask you where you want to save your Scratchpad files. It’s fine to accept the default. Like the rest of your documents, notes in the Scratchpad are saved in a folder as RTF files. 
+
+Click the plus sign at the bottom of the Scratchpad to add a note. Give your note a title, then start typing underneath. As with Notes, you can include images, and even PDFs. You don’t get a formatting toolbar, but you can use kbd:[cmd + b] and kbd:[cmd + i] to bold or italicize text. As your Scratchpad is available through all your Projects, make sure you give the notes a meaningful title.
+
+[screenshot: Adding notes to the Scratchpad — also show deleting and meaningful names]
+
+To delete the note, select it and click the minus sign at the bottom. 
+
+Perhaps you’ve come up with an excellent idea in the Scratchpad and want to add it to your Project. First, select the note in the Scratchpad list. Then click *Send to Project* in the bottom right-hand corner and navigate to the place in your Draft where you want to add it. You can do this either by appending the text to an existing document or by creating a new subdocument.
+
+[screenshot: Send to Project, Append Text to, etc. ]
+
+As the Scratchpad floats freely, you can place it alongside any other application. This makes it ideal for taking notes while you’re reading online.
+
+If you use the Scratchpad a lot, you’ll need the keyboard shortcut kbd:[cmd + shift + enter]. 
+
+==== Accessing the Scratchpad Outside Scrivener
+
+As I mentioned earlier, your Scratchpad files are a folder of RTF documents. This means you can also access them outside Scrivener. To find the location of this folder, click *Scrivener > Preferences > Scratchpad*. Now you’ll see the location of your files:
+
+[screenshot: Notes location in Scratchpad preferences ]
+
+You can change this location by clicking *Choose*. For instance, you might want to store these notes on Dropbox so you can access them from another computer. [SIGNPOST GUIDANCE ON SYNCING]
+
+You can also navigate to that folder in the Finder and add more notes to your Scratchpad without even opening Scrivener.
+
+	. Copy the Notes location from Scratchpad Preferences.
+	. Open Finder on your Mac.
+	. Press kbd:[shift + cmd + g] and paste the folder location you just copied.
+	. Now you’ll see those Scratchpad files.
+
+From here, you can add or delete files. You can also open and edit them in another application.
+
+When you return to the Scratchpad, click the curved arrow icon at the bottom to reload your notes.
+
+[screenshot: Reload notes from disk icon ]
+
+Any changes you made in Finder are now reflected in your Scratchpad.
+
+==== Changing the Format of Your Scratchpad Notes
+
+Under Preferences, you can choose the format for your Scratchpad notes:
+
+	* Rich Text with Attachments (.rtfd)
+	* Rich Text (.rtf)
+	* Text (.txt)
+
+[screenshot: Scratchpad preferences ]
+
+Using the _Rich Text with Attachments_ (.rtfd) format means you can include attachments within those Scratchpad notes, such as images, PDFs, or spreadsheets. You can open .rtfd files with TextEdit, which is included by default on your Mac. Although the .rtfd format offers flexibility, it can present problems if you’re working across a Mac and PC. On a PC, these files appear as folders instead.
+
+To maximize compatibility without losing formatting, choose Rich Text Format (.rtf). But if you want to include images and PDFs in your Scratchpad, stick with .rtfd.
