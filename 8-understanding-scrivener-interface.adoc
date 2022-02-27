@@ -78,8 +78,8 @@ At the bottom, you’ll see the *Footer Bar*. This provides some extra informati
 
 Here are some of the key terms I’m going to be using in this module:
 
-	* Project — this is your main Scrivener file, which comprises lots of individual files. Only some are included in your final thesis. The Project holds everything together.
-	* Document — a distinct piece of writing within your Project. This might be chapter, a section, or even just a paragraph.
-	* Thesis — what you’ll produce at the end by compiling and exporting your Scrivener project.
+	* Project — this is your main Scrivener file, which comprises lots of individual files. Only some are included in your final thesis. The Project holds everything together.
+	* Document — a distinct piece of writing within your Project. This might be chapter, a section, or even just a paragraph.
+	* Thesis — what you’ll produce at the end by compiling and exporting your Scrivener project.
 
 That’s enough terminology. Now let’s start mucking about with some words.

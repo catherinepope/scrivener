@@ -14,7 +14,7 @@ Now you can quickly create new documents in the Corkboard by pressing kbd:[cmd +
 
 [screenshot: virtual index card]
 
- This synopsis can comprise anything you like: a detailed outline, some random thoughts, or just a few keywords. You're creating the building blocks of your project.
+This synopsis can comprise anything you like: a detailed outline, some random thoughts, or just a few keywords. You're creating the building blocks of your project.
 
 Once you have a few of these index cards or building blocks, you can move them around and assemble a storyboard. You'll see they also jump around in the Binder as you move them on the Corkboard.
 

@@ -8,4 +8,4 @@ Then I’ll give you a guided tour of the Scrivener interface, introducing you t
 
 Once you’re acquainted with the Scrivener interface, you’ll create your first project and also import an existing Word document. With some content in place, you can learn some of the basics of Scrivener, such as merging, splitting, and moving documents. A big advantage of Scrivener is that it allows you to break down your thesis into more manageable chunks. That’s exactly what we’ll do. By the end of the chapter, you’ll never be tempted back to Word.
 
-OK, if you’ve already downloaded Scrivener, you can skip to Understanding the Scrivener Interface, otherwise let’s do that now.
+OK, if you’ve already downloaded Scrivener, you can skip to Understanding the Scrivener Interface. Otherwise let’s do that now.

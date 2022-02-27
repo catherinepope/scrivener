@@ -2,7 +2,7 @@
 
 === Downloading a Trial Version
 
-Before you decide whether Scrivener is suitable, you can download a trial version from link:++www.literatureandlatte.com/scrivener/download++[]. The trial lasts 30 days, and that’s 30 non-consecutive days, so you get plenty of opportunity to see whether you like it. Some people make the trial last for years by never switching off their computer. Scrivener is very cheap, though, so I’d recommend buying it and giving your Mac the occasional rest. If you decide not to purchase Scrivener, make sure you export your writing before it expires. SIGNPOST.
+Before you decide whether Scrivener is suitable, you can download a trial version from link:++www.literatureandlatte.com/scrivener/download++[]. The trial lasts 30 days, and that’s 30 non-consecutive days, so you get plenty of opportunity to see whether you like it. Some people make the trial last for years by never switching off their computer. Scrivener is very cheap, though, so I’d recommend buying it and giving your Mac the occasional rest. If you decide not to purchase Scrivener, make sure you export your writing before it expires. SIGNPOST.
 
 === Purchasing Scrivener
 
@@ -19,9 +19,7 @@ The standard cost for both Mac and Windows is currently £47.footnote:[Prices co
 You're also allowed to install Scrivener on all your computers. However, if, like me, you use both a PC and a Mac, you'll need to buy a separate license for each. This is available as a bundle costing £75.
 Upgrading Scrivener from Earlier Versions
 
-The current version of Scrivener for Mac is 3.2.2. If you have an older version, I recommend upgrading. If your version starts with a 2, you’ll be required to pay for the upgrade. You’ll get a discount, though, so it’ll cost you around £25. This is a small price to pay for software that’ll make your life much easier.
-
-https://www.literatureandlatte.com/upgrade-to-scrivener-3-for-macos
+The current version of Scrivener for Mac is 3.2.2. If you have an older version, I recommend upgrading. If your version starts with a 2, you’ll be required to pay for the upgrade. You’ll get a discount, though, so it’ll cost you around £25. This is a small price to pay for software that’ll make your life much easier. https://www.literatureandlatte.com/upgrade-to-scrivener-3-for-macos[Visit the Scrivener website] to learn more about upgrading.
 
 You’ll be asked to enter your serial number so the system can check your eligibility for the discount. Search your inbox for ‘Literature & Latte’ (the company behind Scrivener). If you still can’t find it, https://www.literatureandlatte.com/contact-us[contact Scrivener support]  — they’ll need the email address you used for the original transaction.
 
@@ -37,5 +35,5 @@ To install Scrivener, follow these steps:
 [screenshot: Applications folder ]
 
 Now you’re ready to get acquainted with Scrivener.
-￼
+
 [1] Price correct at time of publication.
