@@ -1,0 +1,12 @@
+== Using Scrivener with Dropbox
+
+If you're working across multiple computers, it's a good idea to save your project to the cloud. Dropbox is currently the only cloud-based storage recommended for Scrivener. While the others are fine for storing your backups, only Dropbox can be trusted not to mess with your project. Other tools, such as Google Drive, have a tendency to convert file formats. And OneDrive is just unreliable.
+
+When using Dropbox, it's important to remember the following points:
+
+	* Always ensure syncing has finished before you open a Project. You should be able to see the status through the Dropbox icon.
+
+[screenshot: show Dropbox syncing vs ready ]
+
+	* Once you've finished your writing session, close Scrivener immediately so your project can sync with Dropbox. Also check you don't accidentally have several copies open.
+	* Wait for syncing to finish before shutting down your computer.

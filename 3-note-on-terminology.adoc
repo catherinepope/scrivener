@@ -1,4 +1,4 @@
-== A Note on Terminology
+== A Note on Terminology and a Disclaimer
 
 Throughout this book, I’ll be referring to your thesis — the term generally used in the UK for the written element of the PhD. In the US, it’s usually known as the _dissertation_. The Americans are right on this one. The argument based on your research is the _thesis_, and the dissertation is the written document in which you explain it. Given I’m based in the UK, I’m going with thesis. Otherwise, I’ll just forget and end up being inconsistent. I called the book _How to Write Your PhD with Scrivener_ to avoid the more cumbersome _How to Write Your Thesis or Dissertation with Scrivener_. To match the Scrivener interface, I’ll use US spelling throughout. 
 
