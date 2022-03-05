@@ -1,4 +1,14 @@
 == Editing
 
-What we'll cover
+Once you've got everything out of your head and into Scrivener, you can impose some order. Even if we start out with a clear plan, we get excited by new ideas. Consequently, that draft starts bulging in unexpected places. And the bigger the draft becomes, the harder it is to keep track of everything. With a huge document like a thesis, there's no way you can hold it all in your head. Fortunately, Scrivener is here to help. 
+
+In this chapter, I'll introduce several important features that will help you edit your thesis. First, I'll show you how to use snapshots, my favorite Scrivener feature. With snapshots, you can save and compare multiple versions of the same document. Then I'll demonstrate tracking revisions in Scrivener - a useful feature if you're experimenting with different versions of the same paragraph.
+
+For me, one of the major advantages of Scrivener is that it's easy to view multiple documents simultaneously. This is helpful when you want ensure continuity between chapters, or just to remember what on earth you wrote earlier on. I'll explain the different views in Scrivener and how you can navigate around your growing thesis.
+
+Then we'll move on to the smaller details of editing, such as spelling and grammar. I'll introduce an excellent tool called ProWritingAid, which works perfectly with Scrivener to improve the clarity of your writing. Also, I'll show you a clever (but very well hidden) feature that finds duplicated text across your Scrivener project.
+
+Finally, I'll outline a process for implementing supervisor feedback in Scrivener. Although it's less straightforward than simply sharing a Word document with them, the Scrivener workflow offers many advantages.
+
+First, we'll create some snapshots.
 

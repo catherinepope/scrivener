@@ -36,7 +36,7 @@ Placeholders aren’t especially helpful for information that appears only once.
 Every thesis needs a table of contents. It’ll help both you and your examiners navigate that enormous document. Here’s how to create one:
 
 	. In the Binder, select the documents to be included in your table of contents.
-	. Then on the Menu Bar click Edit > Copy Special > Copy documents as TOC. This copies all those titles and links to your clipboard.
+	. Then on the Menu Bar click Edit > Copy Special > Copy documents as TOC. This copies all those titles and links to your clipboard.
 	. Next paste this content into your desired location. You might want to create a separate TOC document in your Front Matter folder. 
 
 [screenshot: Show table of contents ]
