@@ -1,3 +1,5 @@
+=== Managing Word Count
+
 A common problem during the editing stage is reducing your word count. It’s exciting seeing that progress bar advance in the early stages. Now, though, you need to get your thesis into shape. In Scrivener, you can also track _negative_ word counts, i.e. how many words you’ve deleted.
 
 Go to *Project > Show Project Targets* to give this a try. We looked at this window earlier to set your word target. Here you can specify an overrun, too.
@@ -29,3 +31,9 @@ To get an overview of how you’re doing, use the Outliner to view your Draft. M
 [screenshot: Outliner with documents that are too long + show how to add Progress bar ]
 
 === Summary
+
+As you've seen, there are lots of editing features in Scrivener. You don't need to use all of them, though. Try out the tools for yourself and see what would fit your workflow. At the very least, the ability to display different parts of your thesis at the same time will help you get a sense of the overall argument. Many of us don't get a sense of that argument until an uncomfortably late stage of the PhD.
+
+Using the snapshots feature gives you the freedom to experiment, without the fear of making a complete mess. You can try out different sequences and see what works best. And you'll never lose anything. If you're also backing up your projects, you'll have everything securely in one place. No more frantically scouring through Dropbox to find that elusive draft, the one we're convinced made perfect sense.
+
+By now, you'll have a good grasp of the main planning, writing, and editing features in Scrivener. Next we're going export your Scrivener project into a more useful format. Make yourself a cup of tea, and I'll see you in a moment.
