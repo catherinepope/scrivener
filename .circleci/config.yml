@@ -1,10 +1,14 @@
 version: 2.1
+orbs:
+  browser-tools: circleci/browser-tools@1.1.0
 jobs:
   build:
     docker:
-      - image: alpine:3.7
+      #- image: alpine:3.7
+      - image: cimg/node:17.2-browsers
     steps:
       - checkout
+      - browser-tools/install-browser-tools
       - run:
           name: The First Step 
           command: |
@@ -15,3 +19,7 @@ jobs:
           command: |
             ls -al
             echo "^^^That should look familiar^^^"
+      - run:
+          name: Running in a Unique Container
+          command: |
+            node: -v
