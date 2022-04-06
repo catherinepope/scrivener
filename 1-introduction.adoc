@@ -1,6 +1,10 @@
 = How to Write Your PhD with Scrivener
 :author: Catherine Pope
 :doctype: book
+:imagesdir: images
+:front-cover-image: image:cover.png[Front Cover,1050,1600]
+:epub3-frontmatterdir: frontmatter
+:toc:
 
 == Introduction
 
@@ -17,3 +21,5 @@ include::2-who-this-book-is-for.adoc[]
 include::3-note-on-terminology.adoc[]
 
 include::4-how-to-use-this-book.adoc[]
+
+include::5-getting-started.adoc[]
