@@ -1,56 +1,59 @@
 version: 2.1
+# use the AWS orb
+orbs: 
+  aws-s3: circleci/aws-s3@3.0.0
 jobs:
-  Hello-World:
+  # this section is generating the EPUB with AsciiDoctor
+  build:
     docker:
-      - image: alpine:3.7
-    steps:
-      - run:
-          name: Hello World
-          command: |
-            echo 'Hello World!'
-            echo 'This is the delivery pipeline'
-  I-Have-Code:
-    docker:
-      - image: alpine:3.7
+      - image: cimg/ruby:2.7.4
+    environment:
+      BUNDLE_PATH: ~/repo/vendor/bundle
     steps:
       - checkout
+      - restore_cache:
+          keys:
+            - rubygems-v1-{{ checksum "Gemfile.lock" }}
+            - rubygems-v1-fallback
       - run:
-          name: Code Has Arrived
-          command: |
-            ls -al
-            echo '^^^That should look familiar^^^'
-  Run-With-Node:
+          name: Bundle Install
+          command: bundle check || bundle install
+      - save_cache:
+          key: rubygems-v1-{{ checksum "Gemfile.lock" }}
+          paths:
+            - vendor/bundle
+      - run:
+          name: AsciiDoctor build
+          command: asciidoctor-epub3 -D output 1-introduction.adoc`
+      - persist_to_workspace:
+          root: ./
+          paths:
+            - _output
+  # this section uploads the site to S3
+  deploy:
     docker:
-      - image: cimg/node:17.2
+      - image: cimg/python:3.9.1
     steps:
-      - run:
-          name: Running In A Container With Node
-          command: |
-            node -v
-  Now-Complete:
-    docker:
-      - image: alpine:3.7
-    steps:
-      - run:
-          name: Approval Complete
-          command: |
-            echo 'Do work once the approval has completed'
-
+      - attach_workspace:
+          at: ./
+      - aws-s3/sync:
+          arguments: |
+            --acl public-read \
+            --cache-control "max-age=86400"
+          aws-access-key-id: AWS_ACCESS_KEY_ID
+          aws-region: AWS_REGION
+          aws-secret-access-key: AWS_SECRET_ACCESS_KEY
+          from: _site
+          to: 's3://www.catherinepope.com'
+      - aws-s3/copy:
+          arguments: '--dryrun'
+          from: _site
+          to: 's3://www.catherinepope.com'
+          
 workflows:
- Example_Workflow:
-   jobs:
-     - Hello-World
-     - I-Have-Code:
-         requires:
-           - Hello-World
-     - Run-With-Node:
-         requires:
-           - Hello-World
-     - Hold-For-Approval:
-         type: approval
-         requires:
-           - Run-With-Node
-           - I-Have-Code
-     - Now-Complete:
-         requires:
-           - Hold-For-Approval
+  test-deploy:
+    jobs:
+      - build
+      - deploy:
+          requires:
+            - build
