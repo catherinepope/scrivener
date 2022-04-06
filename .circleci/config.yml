@@ -7,17 +7,9 @@ jobs:
   build:
     docker:
       - image: cimg/ruby:2.7.4
-    environment:
-      BUNDLE_PATH: ~/repo/vendor/bundle
+      - image: asciidoctor/docker-asciidoctor
     steps:
       - checkout
-      - run:
-          name: Bundle Install
-          command: bundle check || bundle install
-      - save_cache:
-          key: rubygems-v1-{{ checksum "Gemfile.lock" }}
-          paths:
-            - vendor/bundle
       - run:
           name: AsciiDoctor build
           command: asciidoctor-epub3 -D output 1-introduction.adoc
