@@ -2,11 +2,11 @@ version: 2.1
 # use the AWS orb
 orbs: 
   aws-s3: circleci/aws-s3@3.0.0
+  ruby: circleci/ruby@1.1.4
 jobs:
   # this section is generating the EPUB with AsciiDoctor
   build:
     docker:
-      - image: cimg/ruby:2.7.4
       - image: asciidoctor/docker-asciidoctor
     steps:
       - checkout
