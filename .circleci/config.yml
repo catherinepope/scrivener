@@ -16,9 +16,9 @@ jobs:
             mkdir -p /tmp/output
             asciidoctor-epub3 -D output 1-introduction.adoc
             ls -a
-      # - persist_to_workspace:
-      #    root: /tmp/output
-      #    path: humph
+     - persist_to_workspace:
+          root: /output
+          path: humph
   # this section uploads the site to S3
   deploy:
     docker:
