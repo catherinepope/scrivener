@@ -14,7 +14,8 @@ jobs:
           name: AsciiDoctor build
           command: asciidoctor-epub3 -D output 1-introduction.adoc
       - persist_to_workspace:
-          root: ./
+          root: /tmp/dir
+          path: output
   # this section uploads the site to S3
   deploy:
     docker:
