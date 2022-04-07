@@ -3,7 +3,6 @@
 :doctype: book
 :imagesdir: images
 :front-cover-image: image:cover.png[Front Cover,1050,1600]
-:epub3-frontmatterdir: frontmatter
 :toc:
 
 == Introduction
