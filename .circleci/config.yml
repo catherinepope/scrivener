@@ -16,7 +16,7 @@ jobs:
             mkdir -p /tmp/output
             asciidoctor-epub3 -D output 1-introduction.adoc
       - persist_to_workspace:
-          root: *workspace_root
+          root: /tmp/
           path: output
   # this section uploads the site to S3
   deploy:
