@@ -13,10 +13,10 @@ jobs:
       - run:
           name: AsciiDoctor build
           command: |
-            mkdir tmp
+            mkdir -p /tmp/output
             asciidoctor-epub3 -D output 1-introduction.adoc
       - persist_to_workspace:
-          root: /tmp/
+          root: *workspace_root
           path: output
   # this section uploads the site to S3
   deploy:
