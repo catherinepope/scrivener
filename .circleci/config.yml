@@ -13,11 +13,10 @@ jobs:
       - run:
           name: AsciiDoctor build
           command: |
-            mkdir -p /tmp/output
+            mkdir -p /humph
             asciidoctor-epub3 -D output 1-introduction.adoc
-            ls -a
       - persist_to_workspace:
-          root: /output
+          root: ./
           path: humph
   # this section uploads the site to S3
   deploy:
