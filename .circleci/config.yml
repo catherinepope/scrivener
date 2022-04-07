@@ -12,7 +12,7 @@ jobs:
       - checkout
       - run:
           name: AsciiDoctor build
-          command: asciidoctor-epub3 -D output 1-introduction.adoc
+          command: mkdir tmp/dir | asciidoctor-epub3 -D output 1-introduction.adoc
       - persist_to_workspace:
           root: /tmp/dir
           path: output
