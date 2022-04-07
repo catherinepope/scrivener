@@ -15,8 +15,6 @@ jobs:
           command: asciidoctor-epub3 -D output 1-introduction.adoc
       - persist_to_workspace:
           root: ./
-          paths:
-            - _output
   # this section uploads the site to S3
   deploy:
     docker:
