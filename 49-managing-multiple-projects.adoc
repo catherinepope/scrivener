@@ -1,0 +1,35 @@
+== Managing Multiple Projects
+
+Sometimes, you'll want to work on multiple projects in Scrivener. Perhaps you're writing your thesis and a journal article at the same time, or you want to create different versions of the same project. When I wrote my previous book, the structure became a complete nightmare. It was easiest for me to create a whole new Scrivener project and transplant individual documents from the old version.
+
+// check I'm not repeating myself
+
+If you have multiple projects open, they appear in tabs below the toolbar. To display them in separate windows, click and drag one of the tabs outside of Scrivener.
+
+// screenshot
+
+With two projects alongside each other, you’re able to move documents between them by clicking and dragging.
+
+=== Copying Project Settings
+
+You can copy Section Types - explain how.
+
+Click and drag any front matter to the new project (make sure this doesn't remove it from the original project.)
+
+You can't easily copy labels, statuses, auto-complete lists, or custom metadata. If you're likely to reuse these elements across multiple projects, I'd recommend creating an empty Scrivener project that you use as a template.
+
+Once you've configured this project, click *File > Save as Template*.
+
+Populate this template with all the settings you need, then you can click *File > Save As* to create another project with those settings.
+
+Give it a name and click OK.
+
+When you next create a new project in Scrivener, you'll have the option of using this template.
+
+=== Finding Scrivener Projects
+
+I'm a menace for not consistently saving my projects in the same place, or using any kind of logic. Fortunately, there's an easy way to find them. 
+
+In Scrivener, click *File > Find All Projects in Spotlight*. You'll then see a list of all your Scrivener projects, including many that you had abandoned and completely forgotten about. That's exactly what happens to your brain when you're doing a PhD.
+
+// screenshot.

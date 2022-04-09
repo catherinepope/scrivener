@@ -1,0 +1,63 @@
+// Have decided to ditch this section - boring to write and boring to read!
+
+
+== Configuring Settings
+
+Admittedly, this won't be the most exciting section of the book, but it'll help you optimize your Scrivener experience. I won't go through _all_ the settings, as that would probably send you into a coma. I'm just going to draw your attention to some tweaks that'll help you now. Once you've been using Scrivener for a few months, you can come back and experiment with changing other settings.
+
+To access your Scrivener preferences, press kbd:[cmd + ,].
+
+Here you'll see seven tabs. 
+
+=== General
+
+// screenshot
+
+Saving - configure your auto-save options. By default, Scrivener auto-saves your work after two seconds of inactivity. For extra protection, you can ask Scrivener to automatically take snapshots of changed text documents on manual save, that is, when you press kbd:[cmd + s]. If, like me, you're often cursing yourself for not taking snapshots, this could be helpful. Of course, you still need to remember to manually save.
+
+// signpost Snapshots?
+
+
+Language - change the interface language. This doesn't affect the language in which you're typing. Maybe you're writing in another language so it's less confusing if the Scrivener interface matches.
+
+// screenshot
+
+Scratchpad - configure your Scratchpad settings. The hot key you use to launch the Scratchpad, the location for your notes, and the default format. You might want to save your notes to Dropbox so you can access them from other computers.
+
+// signpost the section on the Scratchpad so I'm not duplicating content.
+
+Citations - specifying your bibliography manager.
+
+// signpost section on Zotero.
+
+
+=== Editing
+
+The main settings you want here are under the *Formatting* tab.
+
+// Cross-ref with formatting section
+
+
+=== Behaviors
+
+
+
+=== Appearance
+
+
+
+=== Corrections
+
+
+
+=== Sharing
+
+
+
+=== Backup
+
+
+
+
+
+Resetting to defaults
