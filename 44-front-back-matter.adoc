@@ -2,7 +2,7 @@
 
 === Adding Front and Back Matter
 
-If you’re planning to do some further tweaking in MS Word (or another application afterwards) then you’re all done; otherwise you need to do a bit more work in Scrivener before your thesis is suitable for submission. Your university’s guidelines will tell you what _front matter_ should be added, e.g. title page, acknowledgements, copyright declaration, etc. 
+If you’re planning to do some further tweaking in MS Word (or another application afterwards) then you’re all done; otherwise you need to do a bit more work in Scrivener before your thesis is suitable for submission. Your university’s guidelines will tell you what _front matter_ should be added, such as title page, acknowledgements, copyright declaration, and so on. 
 
 You’ll probably also want to include _back matter_, such as a bibliography and maybe some appendices of data, too.
 
@@ -10,7 +10,7 @@ You can produce this content in Scrivener by adding some extra documents in your
 
 If you don’t want this extra stuff cluttering up your Draft, you can instead put them in separate folders. In a moment, I’ll show you how to automatically include them in the right place when you compile and export your project. Keeping them separate also means you’re not accidentally printing pages unnecessarily or including this content in your word count. 
 
-These folders for front and back matter should be outside your Draft. Make sure the folders are nestling between your Draft and the Research folder. If they’ve been swallowed up by the Draft, select the folders and press kbd:[cmd + ctrl + <] to outdent them.
+These folders for front and back matter should be _outside_ your Draft. Make sure the folders are nestling between your Draft and the Research folder. If they’ve been swallowed up by the Draft, select the folders and press kbd:[cmd + ctrl + <] to outdent them.
 
 [screenshot: Binder with front matter and back matter ]
 
@@ -25,7 +25,7 @@ Scrivener includes some useful placeholders to automatically include key informa
 	* <$date> — the date on which you compiled the Project
 	* <$wc> — the word count
 
-Simply include those placeholders where you want the text to appear, and the information is automatically added when you compile your Project. You provide the information (e.g. your name and the project name) during the Compilation process.
+Simply include those placeholders where you want the text to appear, and the information is automatically added when you compile your Project. You provide the information (for example, your name and the project name) during the Compilation process.
 
 Placeholders aren’t especially helpful for information that appears only once. However, they’re useful for ensuring consistency in running headers and making sure you don’t misspell your own name. You can find them a full list of placeholders under *Help > Placeholders*. Some of the most common placeholders are accessible through the Insert menu.
 
@@ -36,8 +36,8 @@ Placeholders aren’t especially helpful for information that appears only once.
 Every thesis needs a table of contents. It’ll help both you and your examiners navigate that enormous document. Here’s how to create one:
 
 	. In the Binder, select the documents to be included in your table of contents.
-	. Then on the Menu Bar click Edit > Copy Special > Copy documents as TOC. This copies all those titles and links to your clipboard.
-	. Next paste this content into your desired location. You might want to create a separate TOC document in your Front Matter folder. 
+	. Then on the Menu Bar click *Edit > Copy Special > Copy documents as TOC*. This copies all those titles and links to your clipboard.
+	. Next paste (kbd:[cmd + v]) this content into your desired location. You might want to create a separate TOC document in your Front Matter folder. 
 
 [screenshot: Show table of contents ]
 
@@ -57,11 +57,11 @@ Or on the Menu Bar, click *Insert > Endnote Marker*. Yes, that’s all you need 
 
 ==== Including a Bibliography
 
-As I mentioned earlier [SIGNPOST], you can’t automatically generate a bibliography in Scrivener. Here’s my workaround, using Zotero. It’ll work in a similar way for Mendeley or EndNote.
+As I mentioned earlier, you can’t automatically generate a bibliography in Scrivener. Here’s my workaround, using Zotero. It’ll work in a similar way for Mendeley or EndNote.
 
 	* In Zotero, put everything you’ve cited into a Collection.
 	* _Ctrl-click_ on the Collection and choose *Create Bibliography from Collection*.
-	* Choose Save as RTF.
+	* Choose *Save as RTF*.
 	* In Scrivener, _ctrl-click_ on your Back Matter folder, then *Add > Existing Files* and find the RTF file you just created from Zotero.
 
 [screenshot: Show exporting from Zotero ]
