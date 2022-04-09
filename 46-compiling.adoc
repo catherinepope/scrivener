@@ -10,19 +10,19 @@ At the top, you’ll see *Compile For*. Here you determine what sort of document
 
 [screenshot: Compile Window + numbered steps ]
 
-Next, we choose the *Format*. There are various presets here, such as paperback or script. _Default_ simply stitches together your documents, adding page breaks between folders, and including chapter titles based on your folder names. We’re going to create our own format in a moment.
+Next, we choose the *Format*. There are various presets here, such as paperback or script. _Default_ simply stitches together your documents, adding page breaks between folders, and including chapter titles based on your folder names. We’re going to create our own format.
 
 On the right-hand side, you decide what to include in your Word document. By default, it shows the Draft. You might want to choose just a specific folder, though, or the Collection you created for your supervisor. To change this choice, click the arrows to the right of Draft.
 
 [screenshot: choosing what to include — make this numbered ]
 
-Click the tiny funnel icon to filter the documents included in the compile. You can include or exclude documents based on status, label, or custom metadata. [SIGNPOST]
+Click the tiny funnel icon to filter the documents included in the compile. You can include or exclude documents based on status, label, or custom metadata.
 
 [screenshot: Filter documents by metadata ]
 
 You can include or exclude specific documents by clicking the checkboxes, too.
 
-Make sure you haven’t accidentally included your Research or Templates folders. Also, your Front and Back Matter folders should *not* be included here.
+Make sure you haven’t accidentally included your Research or Templates folders. Also, any Front and Back Matter folders should *not* be included here.
 
 You can also see here the assigned Section Type. If any of them are wrong, you can quickly change them with the dropdown list.
 
@@ -30,7 +30,7 @@ At the bottom, you can check boxes to include Front Matter and Back Matter. Clic
 
 [screenshot: Front Matter and Back Matter options ]
 
-The next tab is Metadata. Here you can choose the title of your outputted document and add your details. Once you’ve entered this information, you can reuse it with placeholders [SIGNPOST]. You might’ve used some of these placeholders on your title page.
+The next tab is Metadata. Here you can choose the title of your outputted document and add your details. Once you’ve entered this information, you can reuse it with placeholders. You might’ve used some of these placeholders on your title page.
 
 <$projecttitle> — the full title of your Project
 <$abbr_title> — the abbreviated title of your Project (usually the first part of the title, before any semi-colons).
@@ -40,19 +40,20 @@ The next tab is Metadata. Here you can choose the title of your outputted docume
 
 Wherever you type these placeholders, they’ll be replaced with the details you entered in the Metadata tab. You can use them in various locations, such as running headers. I’ll show you an example in a moment.
 
-Then in Options you can be much more specific about what ends up in this Word document. You could remove any highlighting, strikethrough text, or hyperlinks. The most important part is probably to make sure none of those embarrassing comments or annotations are included. These two checkboxes are enabled by default. In some cases, you might want to include comments, such as to ask your supervisor for feedback on a specific sentence or paragraph.
+Then in *Options* you can be much more specific about what ends up in this Word document. You could remove any highlighting, strikethrough text, or hyperlinks. The most important part is probably to make sure none of those embarrassing comments or annotations are included. These two checkboxes are enabled by default. In some cases, you might want to include comments, such as to ask your supervisor for feedback on a specific sentence or paragraph.
 
 [screenshot: Options ]
 
+[sidebar]
 These options don’t change anything in the Project itself, only in the Word document you export. You could then create another Word document with completely different settings.
 
-To convert footnotes to endnotes, check the box to Export inline [or Inspector] footnotes as endnotes. Make sure you’ve included the <$--ENDNOTES--> placeholder where you want them to appear. [SIGNPOST Back Matter section]
+To convert footnotes to endnotes, check the box to Export inline [or Inspector] footnotes as endnotes. Make sure you’ve included the <$--ENDNOTES--> placeholder where you want them to appear.
 
-Finally, Replacements offers you even more flexibility. Here you can perform a find and replace that applies just to this Word document — it won’t affect the project itself. Maybe you want to anonymise some humans. You could change all instances of Marjorie to Participant A. 
+Finally, *Replacements* offers you even more flexibility. Here you can perform a find and replace that applies just to this Word document — it won’t affect the project itself. Maybe you want to anonymise some humans. You could change all instances of Marjorie to Participant A. 
 
 [screenshot: Show find and replace ]
 
-Under Font, you can decide on a different font throughout your exported document.
+Under *Font*, you can decide on a different font throughout your exported document.
 
 That’s the straightforward part. Now we’re going to assign layouts to your Section Types.
 
@@ -62,7 +63,7 @@ Although Scrivener includes many built-in formats, I’m going to encourage you 
 
 ===== Creating an Export Format
 
-Click the plus sign to Create New Format. Give it a name at the top, e.g. ‘My Thesis’. If you want this format to be available to other Scrivener projects, click the dropdown list next to _Save To_ and choose *My Formats*. Otherwise, you’d need to recreate all these settings each time. Of course, it’s unlikely you’ll want to write another thesis, but you might want to create a whole new Scrivener project for it.
+Click the plus sign to Create New Format. Give it a name at the top, for example, ‘My Thesis’. If you want this format to be available to other Scrivener projects, click the dropdown list next to _Save To_ and choose *My Formats*. Otherwise, you’d need to recreate all these settings each time. Of course, it’s unlikely you’ll want to write another thesis, but you might want to create a whole new Scrivener project for it.
 
 [screenshot: Show Create New Format ]
 
@@ -100,7 +101,7 @@ Under *Title Options*, you can set a prefix and suffix for your heading and also
 
 With the *New Pages* tab, you can add some blank lines before your Chapter titles. You might want the chapter heading to sit lower down, rather than starting at the top of the page. 
 
-In *Settings*, you can change the indents. I showed you how to create a first paragraph style earlier [SIGNPOST]. If you prefer, you can choose *Remove from first paragraph* here instead.
+In *Settings*, you can change the indents. I showed you how to create a first paragraph style earlier. If you prefer, you can choose *Remove from first paragraph* here instead.
 
 ===== Adding Page Breaks
 
@@ -118,7 +119,7 @@ For subsections, you might just want an empty line.
 
 You can choose a custom separator and enter some characters, e.g. a row of ellipses *****.
 
-You can also specify a separator between sections of the same type, e.g. two subsections running on, versus a subsection following a section.
+You can also specify a separator between sections of the same type, for example, two subsections running on, versus a subsection following a section.
 
 ===== Configuring Page Settings
 
@@ -178,10 +179,23 @@ So, the process for compiling and exporting the first time is:
 	* Decide what you want to include in the final document.
 	* Strip out any unwanted details, such as comments and annotations.
 	* Assign and edit a layout to each of your Section Types
-	* Click compile.
+	* Click Compile.
 
 This process will take ages the first time, then you’ll get much faster. Maybe you’ll even learn to love the flexibility offered at the compilation stage. No, me neither.
 
+[sidebar]
 You can also export your project in several other formats, including PDF, HTML, and EPUB (for ebooks). You’ll need different settings for each format. For example, you wouldn’t want running headers in a webpage or hyperlinks in a printed document. You’ll notice that Scrivener shows or hides certain features, depending on the format.
 
 === Summary
+
+That was a complicated chapter, so well done for sticking with it. As I mentioned earlier, it's definitely a good idea to get to grips with compiling and exporting _before_ you actually need to do it. I've given you a basic process in this chapter, but you'll be able to improve and refine it once you're more confident.
+
+If you'd prefer to _see_ this process in action, I recommend watching the official Scrivener videos on their YouTube channel
+
+* https://youtu.be/dlrYkJOro5k[Part 1 - Quick Start]
+* https://youtu.be/joSoxUjNQBM[Part 2 - Section Types and Section Layouts]
+* https://youtu.be/yYuDGtO--HQ[Part 3 - Automating Section Types]
+
+As I explained earlier, the compiling and exporting process doesn't change the content of your Project. That means it's fine for you to experiment at this stage to find a format that works for you. Once you've got that format, you won't need to go through all of this palaver again.
+
+By now, you're an accomplished user of Scrivener. In the final chapter, I'll explain some additional settings and features to help you become even more productive.
