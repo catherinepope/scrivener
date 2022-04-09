@@ -4,13 +4,11 @@
 
 The Compilation process is much easier if you’ve organized your Binder using a proper hierarchy. Although we’ve already created sub-documents and folders in the Binder, this is purely visual. We haven’t told Scrivener what role each of these documents is performing when we export the project. 
 
-We need to specify section types, such as chapters, sections, and sub-sections. Scrivener can then get a sense of the layout you want, for example, a page break before every new chapter. At the compilation stage, you can also specify certain formatting for different section types.  Spending some time on this now will prevent a lot of shouting later on. 
+We need to specify section types, such as chapters, sections, and sub-sections. Scrivener can then get a sense of the layout you want, for example, a page break before every new chapter. At the compilation stage, you can also specify certain formatting for different section types. Spending some time on this now will prevent a lot of shouting later on. 
 
 ==== Creating Section Types
 
-Sections are managed under *Project >  Project Settings > Section Types*.
-
-kbd:[option + cmd + ,]
+Sections are managed under *Project >  Project Settings > Section Types*. You can also use the keyboard shortcut kbd:[option + cmd + ,].
 
 Here you can make a list of the different Section Types you want. This might be chapter, section, and sub-section. You can add or remove them using the plus and minus signs at the bottom. And click and drag to change the order.
 
@@ -22,7 +20,7 @@ You can come back and change them at any time.
 
 Once that’s done, you can assign those Section Types to the hierarchy of your Scrivener Binder.
 
-Click *Default Types by Structure* in the Section Types dialogue box. Here you can decide that anything that’s a folder should be a Chapter. Anything that’s a main document with sub-documents is a Section. All other files, you can set as sub-sections. As you click on these Default Types, you’ll see the corresponding files in the Binder are highlighted in yellow.
+Click *Default Types by Structure* in the Section Types dialogue box. Here you can decide that any folders should be a Chapter. Anything that’s a main document with sub-documents is a Section. All other files, you can set as sub-sections. As you click on these Default Types, you’ll see the corresponding files in the Binder are highlighted in yellow.
 
 Make sure your Binder is fully expanded (kbd:[cmd + 9]) so you can see what’s happening.
 
