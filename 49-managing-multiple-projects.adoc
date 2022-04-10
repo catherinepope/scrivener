@@ -8,23 +8,21 @@ If you have multiple projects open, they appear in tabs below the toolbar. To di
 
 // screenshot
 
-With two projects alongside each other, you’re able to move documents between them by clicking and dragging.
+With two projects alongside each other, you can copy documents or entire folders between them by clicking and dragging.
+
+To return to tabbed windows, click *Window > Merge all Windows* in the menu bar.
 
 === Copying Project Settings
 
-You can copy Section Types - explain how.
+You can't easily copy labels, statuses, auto-complete lists, or custom metadata between projects. If you're likely to reuse these elements across multiple projects, I'd recommend creating an empty Scrivener project as a template.
 
-Click and drag any front matter to the new project (make sure this doesn't remove it from the original project.)
-
-You can't easily copy labels, statuses, auto-complete lists, or custom metadata. If you're likely to reuse these elements across multiple projects, I'd recommend creating an empty Scrivener project that you use as a template.
-
-Once you've configured this project, click *File > Save as Template*.
-
-Populate this template with all the settings you need, then you can click *File > Save As* to create another project with those settings.
+Once you've populated this project with all the settings you need, click *File > Save as Template* on the menu bar.
 
 Give it a name and click OK.
 
 When you next create a new project in Scrivener, you'll have the option of using this template.
+
+// screenshot
 
 === Finding Scrivener Projects
 
