@@ -53,3 +53,14 @@ If you've got carried away and made a flurry of regrettable changes, you can cli
 
 Maybe you want different Preferences in different Projects, or you're sharing Scrivener with someone else. In that case, you can save those preferences as a _Preset_. Once you've configured those Preferences, click *Manage* in the bottom left-hand corner of the window, then choose *Save Preferences as Preset*. To apply them to another Project, choose *Load Preferences from File* and locate the file you created.
 
+=== Customizing Your Toolbar
+
+One trick you can apply right away is to customize your toolbar to show icons for your favorite features. _Ctrl-click_ the Toolbar and choose *Customize Toolbar*. Now you can click and drag icons onto the Toolbar for easy access.
+
+You can also remove any unwanted icons by dragging them away.
+
+The number of icons you can add to your Toolbar depends on the width of your screen. If any aren’t visible, click the arrows to display them.
+
+[screenshot: toolbar arrows ]
+
+I have icons for Backing Up, taking a Snapshot, and my Project Word Count. These are actions I might only take once during a session, so I’m unlikely to remember the keyboard shortcuts.
