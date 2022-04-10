@@ -3,61 +3,53 @@
 
 == Configuring Settings
 
-Admittedly, this won't be the most exciting section of the book, but it'll help you optimize your Scrivener experience. I won't go through _all_ the settings, as that would probably send you into a coma. I'm just going to draw your attention to some tweaks that'll help you now. Once you've been using Scrivener for a few months, you can come back and experiment with changing other settings.
+I won't go through _all_ the settings, as that would probably send you into a coma. I'm just going to draw your attention to them. Once you've been using Scrivener for a few months, you can come back and experiment with changing settings to optimize your experience.
 
 To access your Scrivener preferences, press kbd:[cmd + ,].
 
 Here you'll see seven tabs. 
 
+// screenshot
+
 === General
 
-// screenshot
-
-Saving - configure your auto-save options. By default, Scrivener auto-saves your work after two seconds of inactivity. For extra protection, you can ask Scrivener to automatically take snapshots of changed text documents on manual save, that is, when you press kbd:[cmd + s]. If, like me, you're often cursing yourself for not taking snapshots, this could be helpful. Of course, you still need to remember to manually save.
-
-// signpost Snapshots?
-
-
-Language - change the interface language. This doesn't affect the language in which you're typing. Maybe you're writing in another language so it's less confusing if the Scrivener interface matches.
-
-// screenshot
-
-Scratchpad - configure your Scratchpad settings. The hot key you use to launch the Scratchpad, the location for your notes, and the default format. You might want to save your notes to Dropbox so you can access them from other computers.
-
-// signpost the section on the Scratchpad so I'm not duplicating content.
-
-Citations - specifying your bibliography manager.
-
-// signpost section on Zotero.
-
+This includes your auto-save and language preferences. It's also where you link your bibliography manager and specify the location for saving your Scratchpad files.
 
 === Editing
 
-The main settings you want here are under the *Formatting* tab.
-
-// Cross-ref with formatting section
-
+The main settings you want here are under the *Formatting* tab. This is where you configure your text formatting within Scrivener.
 
 === Behaviors
 
+The settings here determine how the Scrivener interface behaves, such as what happens when you click and drag files or folders. I've never felt the need to change anything here.
 
 
 === Appearance
 
+If you're finding the Scrivener interface hard to read, it's worth spending some time in this tab. Here you can change the font, colors, and spacing for the various elements, such as the Corkboard, notes, and progress bars.
 
 
 === Corrections
 
+Sometimes it's helpful when Scrivener auto-corrects your typing, but maybe it's interfering with your formatting. Under the Corrections tab, you can decide what Scrivener is allowed to do. From here, you can also access your System Text Preferences for adding more sophisticated auto-corrections.
 
 
 === Sharing
 
-
+If you're frequently importing documents into Scrivener, you can save some time by configuring the settings under the Import tab. This determines what happens with comments, footnotes, and styles.
 
 === Backup
 
+We investigated the backup settings at the beginning of the book. This is another opportunity for me to remind you about the importance of backing up your work. Take a peek at these settings to make sure your Projects are backed up to the right place.
 
 
+=== Restoring the Default Settings
 
+If you've got carried away and made a flurry of regrettable changes, you can click Defaults to restore the original settings. As the warning message says, this action cannot be undone. Make sure you've noted any helpful changes before resetting.
 
-Resetting to defaults
+// screenshot
+
+=== Using Different Preferences in Projects
+
+Maybe you want different Preferences in different Projects, or you're sharing Scrivener with someone else. In that case, you can save those preferences as a _Preset_. Once you've configured those Preferences, click *Manage* in the bottom left-hand corner of the window, then choose *Save Preferences as Preset*. To apply them to another Project, choose *Load Preferences from File* and locate the file you created.
+
