@@ -1,0 +1,18 @@
+== Getting Help and Support
+
+One of Scrivener's strengths is that the developers put a lot of effort into providing support. An especially helpful feature is the Interactive Help menu. Click on *Help* in the menu bar, then type what you're looking for in the search bar.
+
+// screenshot
+
+If it's a Scrivener feature, you'll then see it highlighted on the menus so you know how to find it.
+
+// screenshot
+
+I use this feature all the time, so don't feel as though you have to remember all this stuff.
+
+
+Under Help, you'll also see links to tutorials. And there’s an exhaustive Scrivener manual. It's around 750 pages long, so I really do mean _exhaustive_. 
+
+For intractable problems, you can contact the Scrivener support team through the menu. They’re incredibly helpful and responsive. The User Forums are also great. Although I want to help you, the Scrivener community is likely to provide a swifter and more comprehensive response.
+
+
